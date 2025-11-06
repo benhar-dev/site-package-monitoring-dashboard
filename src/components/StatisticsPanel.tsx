@@ -60,7 +60,7 @@ export function StatisticsPanel({ packages, packageHistoryData, onSelectPackage,
       <div className="flex items-center gap-3">
       <div className="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-background/20">
         <span className="text-muted-foreground text-xs">Total</span>
-        <span className="text-lg font-bold">{packages.length}</span>
+        <span className="text-foreground">{packages.length}</span>
       </div>
       
         {totalMovingSoon > 0 && (

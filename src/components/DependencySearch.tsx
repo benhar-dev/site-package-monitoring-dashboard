@@ -86,7 +86,7 @@ export function DependencySearch({ packages, onSelectPackage }: DependencySearch
   return (
     <div className="relative">
       <div className="flex gap-2 items-center">
-        <Tabs value={searchMode} onValueChange={(v) => handleModeChange(v as 'package' | 'dependency')} className="w-auto">
+        <Tabs value={searchMode} onValueChange={(v:string) => handleModeChange(v as 'package' | 'dependency')} className="w-auto">
           <TabsList className="glass h-10">
             <TabsTrigger value="package" className="text-xs gap-1.5">
               <PackageIcon className="h-3.5 w-3.5" />

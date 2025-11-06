@@ -57,7 +57,7 @@ export function PackageList({ packages, selectedPackage, onSelectPackage, packag
       <div className="flex items-center gap-1 text-yellow-400 text-sm mt-1">
         <AlertCircle className="h-3 w-3" />
         <span>
-          Version updated {versionChange.daysAgo}d ago ({versionChange.oldVersion} → {versionChange.newVersion}) - Timer reset
+          Updated {versionChange.daysAgo}d ago ({versionChange.oldVersion} → {versionChange.newVersion})
         </span>
       </div>
     );
