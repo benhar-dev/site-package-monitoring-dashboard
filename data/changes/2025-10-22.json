@@ -1,0 +1,42 @@
+{
+  "date": "2025-10-22",
+  "counts": {
+    "added": 0,
+    "removed": 0,
+    "updated": 5
+  },
+  "added": [],
+  "removed": [],
+  "updated": [
+    {
+      "Id": "TF6510.IEC61850-IEC61400-25.XAE",
+      "from": "33.98.3",
+      "to": "33.98.4",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TF6510.IEC61850-IEC61400-25.XAR",
+      "from": "33.98.3",
+      "to": "33.98.4",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.MC3.XAE",
+      "from": "0.0.7",
+      "to": "0.0.8",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_MeasurementCore",
+      "from": "3.3.244",
+      "to": "3.3.247",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAR.RealtimeMonitorServer",
+      "from": "1.0.5",
+      "to": "1.0.6",
+      "Source": "Beckhoff Experimental Feed"
+    }
+  ]
+}

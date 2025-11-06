@@ -1,0 +1,78 @@
+{
+  "date": "2025-09-06",
+  "counts": {
+    "added": 0,
+    "removed": 0,
+    "updated": 11
+  },
+  "added": [],
+  "removed": [],
+  "updated": [
+    {
+      "Id": "TwinCAT.HMI.BA.BaSite",
+      "from": "2.12.5",
+      "to": "2.13.0",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.BA.Controls",
+      "from": "2.12.5",
+      "to": "2.13.0",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.BA.Framework",
+      "from": "2.12.5",
+      "to": "2.13.0",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.BA.Icons",
+      "from": "2.12.5",
+      "to": "2.13.0",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.BA.ProjectTemplates",
+      "from": "2.12.5",
+      "to": "2.13.0",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.BA.PlcTemplatesXBA",
+      "from": "6.1.29",
+      "to": "6.1.30",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.IDE",
+      "from": "0.0.30",
+      "to": "0.0.31",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_EtherCATDiag",
+      "from": "1.0.11",
+      "to": "1.0.12",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_MeasurementCore",
+      "from": "3.3.216",
+      "to": "3.3.217",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_PackML_V3",
+      "from": "1.0.3",
+      "to": "1.0.6",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.RM.4026.19",
+      "from": "5.12.5",
+      "to": "5.12.7",
+      "Source": "Beckhoff Experimental Feed"
+    }
+  ]
+}

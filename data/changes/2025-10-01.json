@@ -1,0 +1,36 @@
+{
+  "date": "2025-10-01",
+  "counts": {
+    "added": 1,
+    "removed": 0,
+    "updated": 3
+  },
+  "added": [
+    {
+      "Id": "TwinCAT.XAR.IotCommunicatorPushAgent",
+      "Version": "0.1.6",
+      "Source": "Beckhoff Experimental Feed"
+    }
+  ],
+  "removed": [],
+  "updated": [
+    {
+      "Id": "TE9000.SafetyEditor.XAE",
+      "from": "1.4.12",
+      "to": "1.4.13",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AnalyticsLogger",
+      "from": "4.3.5",
+      "to": "4.3.25",
+      "Source": "Beckhoff Testing Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_MeasurementCore",
+      "from": "3.3.232",
+      "to": "3.3.233",
+      "Source": "Beckhoff Experimental Feed"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "date": "2025-09-16",
+  "counts": {
+    "added": 0,
+    "removed": 1,
+    "updated": 8
+  },
+  "added": [],
+  "removed": [
+    {
+      "Id": "TwinCAT.XAR.CaptureTool",
+      "Version": "1.0.11",
+      "Source": "Beckhoff Experimental Feed"
+    }
+  ],
+  "updated": [
+    {
+      "Id": "TwinCAT.XAE.AnalyticsLogger",
+      "from": "4.3.15",
+      "to": "4.3.16",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.EtherCATConfig",
+      "from": "2.0.107",
+      "to": "2.0.108",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_PlcTestFramework",
+      "from": "1.11.18",
+      "to": "1.11.19",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_PlcTestUtilitiesGeneric",
+      "from": "1.11.18",
+      "to": "1.11.19",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_PlcTestUtilitiesMC2",
+      "from": "1.11.18",
+      "to": "1.11.19",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_PlcTestUtilitiesNcI",
+      "from": "1.11.18",
+      "to": "1.11.19",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.RM.4026.19",
+      "from": "5.12.7",
+      "to": "5.12.8",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAR.EthernetCaptureTool",
+      "from": "1.0.33",
+      "to": "1.0.80",
+      "Source": "Beckhoff Testing Feed"
+    }
+  ]
+}

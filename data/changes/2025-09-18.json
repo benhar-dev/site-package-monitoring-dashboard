@@ -1,0 +1,546 @@
+{
+  "date": "2025-09-18",
+  "counts": {
+    "added": 0,
+    "removed": 0,
+    "updated": 89
+  },
+  "added": [],
+  "removed": [],
+  "updated": [
+    {
+      "Id": "Python.Beckhoff.tchmi.llm",
+      "from": "0.1.13",
+      "to": "0.1.15",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TE1421.SimulationRuntimeForFMI.XAE",
+      "from": "1.1.84",
+      "to": "1.1.114",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TF8550.PlasticHMIFramework.XAE",
+      "from": "14.18.10",
+      "to": "14.18.26",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TF8560.PlasticTechnologyFunctions.XAE",
+      "from": "12.10.3",
+      "to": "12.10.7",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TF85xx.PlasticApplication.XAE",
+      "from": "12.12.1",
+      "to": "12.12.2",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.McpServer",
+      "from": "14.4.13",
+      "to": "14.4.15",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.Plastic",
+      "from": "14.18.23",
+      "to": "14.18.26",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.Plastic.Controls",
+      "from": "14.18.23",
+      "to": "14.18.26",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.Plastic.Functions",
+      "from": "14.18.23",
+      "to": "14.18.26",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.Plastic.Images",
+      "from": "14.18.23",
+      "to": "14.18.26",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.Plastic.Localizations",
+      "from": "14.18.23",
+      "to": "14.18.26",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.Plastic.RecipeHelper",
+      "from": "14.18.23",
+      "to": "14.18.26",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.Plastic.RFID",
+      "from": "14.18.23",
+      "to": "14.18.26",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.Plastic.Temperature",
+      "from": "14.18.23",
+      "to": "14.18.26",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.Plastic.Themes",
+      "from": "14.18.23",
+      "to": "14.18.26",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.PlasticApplication",
+      "from": "12.12.1",
+      "to": "12.12.2",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.SIM.IOBase",
+      "from": "1.2.8",
+      "to": "1.2.11",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.SIM.RuntimeFMI",
+      "from": "1.1.84",
+      "to": "1.1.114",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.EtherCATConfig",
+      "from": "2.0.108",
+      "to": "2.0.109",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PlasticApplication",
+      "from": "12.12.1",
+      "to": "12.12.2",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_MeasurementCore",
+      "from": "3.3.221",
+      "to": "3.3.223",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_PlasticBaseApplication",
+      "from": "12.12.3",
+      "to": "12.12.7",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_PlasticBaseApplicationElectric",
+      "from": "12.12.3",
+      "to": "12.12.7",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_Wind",
+      "from": "3.1.5",
+      "to": "3.1.7",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_ControllerToolbox",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_Coupler",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_DALI",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_DataExchange",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_DMX",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_Drive",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_EIB",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_EnOcean",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_EtherCAT",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_IoFunctions",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_KL85xx",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_LON",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_Math",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_MBus",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_MC2",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_MC2_Camming",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_MC2_Drive",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_MC2_FlyingSaw",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_MC2_XFC",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_MDP",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_ModbusRTU",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_ModbusSrv",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_MPBus",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_NC",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_NcDrive",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_NcFifoAxes",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_NCI",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_NciXFC",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_NcKinematicTransformation",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_OpcUA",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_PlcInterpolation",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_ProfinetDiag",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_RFID",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_SerialCom",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_SMI",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_SPA",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_SUPS",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_System",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_SystemC69xx",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_SystemCX",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_TcpIp",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_TempController",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_Utilities",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc2_XmlDataSrv",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc3_DriveMotionControl",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc3_DynamicMemory",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc3_EtherCATExtSync",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc3_EventLogger",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc3_IotFunctions",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc3_IPCDiag",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc3_JsonXml",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc3_Legacy",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc3_MC2_AdvancedHoming",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc3_MC2_AdvancedHoming_XFC",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc3_Mc3Drive",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc3_Module",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc3_PackML",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc3_PackML_V2",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLCpp.Lib.Tc3_TestFrame",
+      "from": "0.3.73",
+      "to": "0.3.75",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerBase.RM.4026.19",
+      "from": "2.6.10",
+      "to": "2.6.11",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerBase.TcIde",
+      "from": "2.6.10",
+      "to": "2.6.11",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerVS.RM.4026.19",
+      "from": "2.6.10",
+      "to": "2.6.11",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.TMX.Wind",
+      "from": "3.1.5",
+      "to": "3.1.7",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAR.EtherCATSlave",
+      "from": "2.2.4",
+      "to": "2.3.3",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAR.Profinet",
+      "from": "2.4.4",
+      "to": "2.5.1",
+      "Source": "Beckhoff Stable Feed"
+    }
+  ]
+}

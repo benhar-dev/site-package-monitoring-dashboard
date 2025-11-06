@@ -1,0 +1,6670 @@
+{
+  "packageStats": {
+    "Beckhoff.DeviceManager.XAR": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.5.3"
+    },
+    "Beckhoff.Disclaimer.BetaFeed": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.0"
+    },
+    "Beckhoff.Disclaimer.OutdatedFeed": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.0"
+    },
+    "Beckhoff.IPC.BkCloningDll": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.0.6"
+    },
+    "Beckhoff.IPC.BkDevMgr": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.0.4"
+    },
+    "Beckhoff.IPC.BkSysNetConfig": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.2.0"
+    },
+    "Beckhoff.IPC.CXID": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "6.0.4"
+    },
+    "Beckhoff.IPC.DisplayControl": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.0"
+    },
+    "Beckhoff.IPC.MDP": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.7.1"
+    },
+    "Beckhoff.IPC.MdpUaServer": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.1.38"
+    },
+    "Beckhoff.IPC.MdpWebservice": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.4.3"
+    },
+    "Beckhoff.IPC.MdpWebsite": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.4.5"
+    },
+    "Beckhoff.IPC.SSHShell": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.1.1"
+    },
+    "Beckhoff.IPC.VirtualAccessPoint": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.4"
+    },
+    "Beckhoff.IPC.WriteFilterManager": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.10"
+    },
+    "Beckhoff.Python": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.13.5"
+    },
+    "net.8.0.DesktopRuntime.Beckhoff": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "8.0.13.34517"
+    },
+    "Netfx.4.7.2.Beckhoff": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.7.3081"
+    },
+    "netfx.4.8.1.Beckhoff": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.8.9037.7"
+    },
+    "Node.js.Beckhoff": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "22.19.0"
+    },
+    "Python.Beckhoff.tchmi.client": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.0"
+    },
+    "Python.Beckhoff.tchmi.extensionapi": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.0"
+    },
+    "TC1000.ADS.XAR": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.0"
+    },
+    "TC1300.Cpp.XAE": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4026.19.0"
+    },
+    "TC170x.UsermodeRuntime.XAR": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4026.19.0"
+    },
+    "TcPkg": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.3.65"
+    },
+    "TcPkgUI": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.35"
+    },
+    "TE1010.RealtimeMonitor.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.4.28"
+    },
+    "TE1030.DocumentationGeneration.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.1.1"
+    },
+    "TE1111.EtherCATSimulation.XAR": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.5"
+    },
+    "TE1120.XCADInterface.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.6"
+    },
+    "TE1300.ScopeViewProfessional.XAE": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "34.49.12"
+    },
+    "TE1310.FilterDesigner.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "34.49.10"
+    },
+    "TE1320.BodePlotBase.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "34.49.8"
+    },
+    "TE1400.TargetForSimulink.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.10.297"
+    },
+    "TE1401.TargetForMATLAB.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.10.297"
+    },
+    "TE1402.TargetForEmbeddedCoder.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.10.297"
+    },
+    "TE1410.InterfaceForMATLABSimulink.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.10.255"
+    },
+    "TE1420.TargetForFMI.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.8.161"
+    },
+    "TE1421.SimulationRuntimeForFMI.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.114"
+    },
+    "TE1610.EAPConfigurator.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.0"
+    },
+    "TE2000.HMIEngineering.XAE": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.9.1"
+    },
+    "TE3500.AnalyticsWorkbench.XAE": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "34.49.12"
+    },
+    "TE3520.AnalyticsServiceTool.XAE": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "34.49.12"
+    },
+    "TE5910.MotionDesigner.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.9.1"
+    },
+    "TE5950.DriveManager2.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.96"
+    },
+    "TE6100.OpcUaNodesetEditor.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.1.12"
+    },
+    "TE8400.MTP.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.9.22"
+    },
+    "TE9000.SafetyEditor.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.4.13"
+    },
+    "TF1200.UiClient.XAR": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.5.0"
+    },
+    "TF1800.PLCHMI.XAR": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.3"
+    },
+    "TF1810.PLCHMIWeb.XAR": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.3"
+    },
+    "TF2000.HMIServer.XAR": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.9.0"
+    },
+    "TF3300.ScopeServer.XAR": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "34.49.12"
+    },
+    "TF3500.AnalyticsLogger.XAE": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "34.3.1"
+    },
+    "TF3500.AnalyticsLogger.XAR": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "31.19.0"
+    },
+    "TF3510.AnalyticsLibrary.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "33.8.0"
+    },
+    "TF3520.AnalyticsStorageProvider.XAE": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "33.16.1"
+    },
+    "TF3520.AnalyticsStorageProvider.XAR": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "33.16.1"
+    },
+    "TF3550.AnalyticsRuntime.XAR": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "31.1.1"
+    },
+    "TF3551.AnalyticsRuntimeBase.XAR": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "31.1.1"
+    },
+    "TF3600.ConditionMonitoring.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "33.30.1"
+    },
+    "TF3650.PowerMonitoring.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "33.36.0"
+    },
+    "TF3680.FilterLibrary.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "32.9.0"
+    },
+    "TF3685.WeighingLibrary.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "31.2.0"
+    },
+    "TF3710.InterfaceForLabVIEW.XAE": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.7.3"
+    },
+    "TF3800.MachineLearningInferenceEngine.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.3"
+    },
+    "TF3810.NeuralNetworkInferenceEngine.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.3"
+    },
+    "TF3820.MachineLearningServer.XAR": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.1"
+    },
+    "TF3830.MachineLearningServerClient.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.1"
+    },
+    "TF38xx.MachineLearningModelManager.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.3.3"
+    },
+    "TF3900.SolarPositionAlgorithm.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.0"
+    },
+    "TF4100.ControllerToolbox.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.6.5"
+    },
+    "TF4110.TemperatureController.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.2"
+    },
+    "TF4500.Speech.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.4"
+    },
+    "TF4500.Speech.XAR": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.4"
+    },
+    "TF5000.NCPTP.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.4"
+    },
+    "TF5000.NCPTP.XAR": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.1.5034"
+    },
+    "TF5100.NCI.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.2"
+    },
+    "TF5100.NCI.XAR": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.4"
+    },
+    "TF5120.Robotics-mxAutomation.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.2"
+    },
+    "TF5130.Robotics-univalPLC.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.1"
+    },
+    "TF5200.CNC.XAE": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.27.0"
+    },
+    "TF5210.CNCE.XAE": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.27.0"
+    },
+    "TF5210.CNCE.XAR": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.27.0"
+    },
+    "TF5225.CncMeasurement.XAR": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.9.1"
+    },
+    "TF5245.CncKinematicOptimization.XAR": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.9.1"
+    },
+    "TF5293.CncMillingBase.XAR": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.9.1"
+    },
+    "TF5400.AdvancedMotionPack.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.19"
+    },
+    "TF5400.AdvancedMotionPack.XAR": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.19"
+    },
+    "TF5810.HydraulicPositioning.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.31"
+    },
+    "TF5850.XTS.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.3.5"
+    },
+    "TF5890.XPlanar.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.5.2"
+    },
+    "TF6010.AdsMonitor.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.0"
+    },
+    "TF6100.OpcUaConfigurator.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.5.8"
+    },
+    "TF6100.OpcUaGateway.XAR": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.4.6"
+    },
+    "TF6100.OpcUaServer.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.2.123"
+    },
+    "TF6100.OpcUaServer.XAR": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.2.123"
+    },
+    "TF610x.OpcUaClientPubSub.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.10"
+    },
+    "TF610x.OpcUaClientPubSub.XAR": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.10"
+    },
+    "TF6230.ParallelRedundancyProtocol.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.0"
+    },
+    "TF6230.ParallelRedundancyProtocol.XAR": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.0"
+    },
+    "TF6250.ModbusTCP.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.5.1"
+    },
+    "TF6250.ModbusTCP.XAR": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.17"
+    },
+    "TF6255.ModbusRTU.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.6.1"
+    },
+    "TF6255.ModbusRTU.XAR": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.6.1"
+    },
+    "TF6300.FTPClient.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.0.9"
+    },
+    "TF6300.FTPClient.XAR": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.0.9"
+    },
+    "TF6310.TcpIp.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.20"
+    },
+    "TF6310.TcpIp.XAR": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.20"
+    },
+    "TF6340.SerialCommunication.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.11"
+    },
+    "TF6340.SerialCommunication.XAR": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.11"
+    },
+    "TF6350.SmsSmtp.XAR": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.3"
+    },
+    "TF6360.VirtualSerialComPort.XAR": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.35.1"
+    },
+    "TF6420.DatabaseServer.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "33.36.2"
+    },
+    "TF6420.DatabaseServer.XAR": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "33.36.2"
+    },
+    "TF6421.XMLServer.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "32.37.5"
+    },
+    "TF6421.XMLServer.XAR": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "32.37.5"
+    },
+    "TF6500.IEC60870-5-10x.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "33.11.0"
+    },
+    "TF6500.IEC60870-5-10x.XAR": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "33.11.0"
+    },
+    "TF6510.IEC61850-IEC61400-25.XAE": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "33.98.4"
+    },
+    "TF6510.IEC61850-IEC61400-25.XAR": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "33.98.4"
+    },
+    "TF6600.RFIDReaderCommunication.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.3"
+    },
+    "TF6600.RFIDReaderCommunication.XAR": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.3"
+    },
+    "TF6620.S7Communication.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.15"
+    },
+    "TF6620.S7Communication.XAR": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.15"
+    },
+    "TF6701.IotCommunication.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.5.3"
+    },
+    "TF6710.IotFunctions.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.3"
+    },
+    "TF6720.IotDataAgent.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.20"
+    },
+    "TF6720.IotDataAgent.XAR": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.20"
+    },
+    "TF6730.IotCommunicator.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.2.7"
+    },
+    "TF6760.IotHttpsRest.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.5.3"
+    },
+    "TF6770.IotWebSockets.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.5.3"
+    },
+    "TF6771.IotOCPP.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.4"
+    },
+    "TF7xxx.Vision.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.8.4"
+    },
+    "TF7xxx.Vision.XAR": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.8.4"
+    },
+    "TF8020.BACnet.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.5"
+    },
+    "TF8020.BACnet.XAR": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.5"
+    },
+    "TF8310.WindFramework.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.1.5"
+    },
+    "TF8330.PowerCollector.XAE": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.1.0"
+    },
+    "TF8350.PowerTechnologies.XAE": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.1.0"
+    },
+    "TF8360.PowerControl.XAE": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.1.0"
+    },
+    "TF8540.PlasticProcessingFramework.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.0"
+    },
+    "TF8550.PlasticHMIFramework.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.18.26"
+    },
+    "TF8560.PlasticTechnologyFunctions.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "12.10.7"
+    },
+    "TF85xx.PlasticApplication.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "12.12.2"
+    },
+    "TwinCAT.BlockDiagramClassic.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.5.21"
+    },
+    "TwinCAT.DriveManagerClassic.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.15.4"
+    },
+    "TwinCAT.HMI.Alarm": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.4.216"
+    },
+    "TwinCAT.HMI.AnalyticsControls": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.35.92"
+    },
+    "TwinCAT.HMI.AuditTrail": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.4.216"
+    },
+    "TwinCAT.HMI.AuditTrailUtils": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.3.277"
+    },
+    "TwinCAT.HMI.BaseTemplate": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.3.277"
+    },
+    "TwinCAT.HMI.Controls": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.3.277"
+    },
+    "TwinCAT.HMI.EcDiagnostics": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.4.216"
+    },
+    "TwinCAT.HMI.EcDiagnosticsControl": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.3.277"
+    },
+    "TwinCAT.HMI.Engineering": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.3.436"
+    },
+    "TwinCAT.HMI.Engineering.TcXaeShell": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.3.436"
+    },
+    "TwinCAT.HMI.Engineering.TcXaeShell64": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.3.436"
+    },
+    "TwinCAT.HMI.Engineering.VS2017": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.3.436"
+    },
+    "TwinCAT.HMI.Engineering.VS2019": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.3.436"
+    },
+    "TwinCAT.HMI.Engineering.VS2022": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.3.436"
+    },
+    "TwinCAT.HMI.EventLogger": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.4.216"
+    },
+    "TwinCAT.HMI.Framework": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.3.277"
+    },
+    "TwinCAT.HMI.Functions": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.3.277"
+    },
+    "TwinCAT.HMI.Industries.Common": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.3.277"
+    },
+    "TwinCAT.HMI.Ldap": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.4.80"
+    },
+    "TwinCAT.HMI.Mdp": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.4.216"
+    },
+    "TwinCAT.HMI.Motion": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.3.277"
+    },
+    "TwinCAT.HMI.OpcUa": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.4.216"
+    },
+    "TwinCAT.HMI.PackML": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.3.277"
+    },
+    "TwinCAT.HMI.PDFViewer": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.3.277"
+    },
+    "TwinCAT.HMI.PI.ProcessLibrary": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.6.17"
+    },
+    "TwinCAT.HMI.Plastic": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.18.31"
+    },
+    "TwinCAT.HMI.Plastic.Controls": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.18.31"
+    },
+    "TwinCAT.HMI.Plastic.Functions": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.18.31"
+    },
+    "TwinCAT.HMI.Plastic.Images": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.18.31"
+    },
+    "TwinCAT.HMI.Plastic.Localizations": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.18.31"
+    },
+    "TwinCAT.HMI.Plastic.RecipeHelper": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.18.31"
+    },
+    "TwinCAT.HMI.Plastic.RFID": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.18.31"
+    },
+    "TwinCAT.HMI.Plastic.Temperature": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.18.31"
+    },
+    "TwinCAT.HMI.Plastic.Themes": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.18.31"
+    },
+    "TwinCAT.HMI.PlasticApplication": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "12.12.2"
+    },
+    "TwinCAT.HMI.PostgresHistorize": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.4.216"
+    },
+    "TwinCAT.HMI.RecipeManagement": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.4.216"
+    },
+    "TwinCAT.HMI.Reporting": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.4.216"
+    },
+    "TwinCAT.HMI.ResponsiveNavigation": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.3.277"
+    },
+    "TwinCAT.HMI.Scope": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.4.124"
+    },
+    "TwinCAT.HMI.ScopeControl": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.3.277"
+    },
+    "TwinCAT.HMI.Server": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.4.216"
+    },
+    "TwinCAT.HMI.Server.Documentation": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.4.216"
+    },
+    "TwinCAT.HMI.Server.Engineering": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.4.216"
+    },
+    "TwinCAT.HMI.Server.NET": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.4.216"
+    },
+    "TwinCAT.HMI.Server.NET.SDK": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.4.216"
+    },
+    "TwinCAT.HMI.Speech": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.4.216"
+    },
+    "TwinCAT.HMI.SqliteHistorize": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.4.216"
+    },
+    "TwinCAT.HMI.SystemEngineering": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.4.216"
+    },
+    "TwinCAT.HMI.SystemEngineeringUtils": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.3.280"
+    },
+    "TwinCAT.HMI.Vision": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.3.185"
+    },
+    "TwinCAT.HMI.Vision.Controls": {
+      "changeCount": 6,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.4.6"
+    },
+    "TwinCAT.HMI.XTS": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.3.2"
+    },
+    "TwinCAT.HMI.XTS.Controls": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.3.14"
+    },
+    "TwinCAT.Multiuser.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.3.0"
+    },
+    "TwinCAT.Multiuser.XAR": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.0"
+    },
+    "TwinCAT.Prep": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.29"
+    },
+    "TwinCAT.SIM.IOBase": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.2.11"
+    },
+    "TwinCAT.SIM.RuntimeFMI": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.114"
+    },
+    "TwinCAT.Standard.XAE": {
+      "changeCount": 6,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4026.19.0"
+    },
+    "TwinCAT.Standard.XAR": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4026.19.0"
+    },
+    "TwinCAT.StandardRM.XAE": {
+      "changeCount": 6,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4026.19.0"
+    },
+    "TwinCAT.SupportInformationReport.XAE": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "20.17.3"
+    },
+    "TwinCAT.XAE.AdsApi": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.2.6"
+    },
+    "TwinCAT.XAE.AdsMonitorViewerIntegrated": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.5"
+    },
+    "TwinCAT.XAE.AdsMonitorViewerIntegrated.TcXaeShell": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.5"
+    },
+    "TwinCAT.XAE.AdsMonitorViewerIntegrated.VS2017": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.5"
+    },
+    "TwinCAT.XAE.AdsMonitorViewerIntegrated.VS2019": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.5"
+    },
+    "TwinCAT.XAE.AdsMonitorViewerStandalone": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.8"
+    },
+    "TwinCAT.XAE.AdvancedMotion": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.19"
+    },
+    "TwinCAT.XAE.AnalyticsDataExchange.Dotnet": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.7.4"
+    },
+    "TwinCAT.XAE.AnalyticsKernelAdapter": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.7.1"
+    },
+    "TwinCAT.XAE.AnalyticsStorageProvider": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.16.29"
+    },
+    "TwinCAT.XAE.AnalyticsStorageProvider.TcXaeShell": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.16.29"
+    },
+    "TwinCAT.XAE.AnalyticsStorageProvider.TcXaeShell64": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.16.29"
+    },
+    "TwinCAT.XAE.AnalyticsStorageProvider.VS2017": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.16.29"
+    },
+    "TwinCAT.XAE.AnalyticsStorageProvider.VS2019": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.16.29"
+    },
+    "TwinCAT.XAE.AnalyticsStorageProvider.VS2022": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.16.29"
+    },
+    "TwinCAT.XAE.AnalyticsWorkbench": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.49.575"
+    },
+    "TwinCAT.XAE.AnalyticsWorkbench.TcXaeShell": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.49.575"
+    },
+    "TwinCAT.XAE.AnalyticsWorkbench.TcXaeShell64": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.49.575"
+    },
+    "TwinCAT.XAE.AnalyticsWorkbench.VS2017": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.49.575"
+    },
+    "TwinCAT.XAE.AnalyticsWorkbench.VS2019": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.49.575"
+    },
+    "TwinCAT.XAE.AnalyticsWorkbench.VS2022": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.49.575"
+    },
+    "TwinCAT.XAE.ApplicationRuntime": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.5"
+    },
+    "TwinCAT.XAE.AutomationMLDataExchange": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.2.26"
+    },
+    "TwinCAT.XAE.AutomationMLDataExchange.TcXaeShell": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.2.26"
+    },
+    "TwinCAT.XAE.AutomationMLDataExchange.TcXaeShell64": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.2.26"
+    },
+    "TwinCAT.XAE.AutomationMLDataExchange.VS2017": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.2.26"
+    },
+    "TwinCAT.XAE.AutomationMLDataExchange.VS2019": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.2.26"
+    },
+    "TwinCAT.XAE.AutomationMLDataExchange.VS2022": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.2.26"
+    },
+    "TwinCAT.XAE.BACnet": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.7.0"
+    },
+    "TwinCAT.XAE.Base": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.2.0"
+    },
+    "TwinCAT.XAE.Base.SupportInfoReportExtension": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.4"
+    },
+    "TwinCAT.XAE.BlockDiagramClassic": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.5.25"
+    },
+    "TwinCAT.XAE.BodePlot": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.49.87"
+    },
+    "TwinCAT.XAE.BodePlot.TcXaeShell": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.49.87"
+    },
+    "TwinCAT.XAE.BodePlot.TcXaeShell64": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.49.87"
+    },
+    "TwinCAT.XAE.BodePlot.VS2017": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.49.87"
+    },
+    "TwinCAT.XAE.BodePlot.VS2019": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.49.87"
+    },
+    "TwinCAT.XAE.BodePlot.VS2022": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.49.87"
+    },
+    "TwinCAT.XAE.CNC": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.27.0"
+    },
+    "TwinCAT.XAE.CNC.CppSupport": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.27"
+    },
+    "TwinCAT.XAE.ConditionMonitoring": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.30.1"
+    },
+    "TwinCAT.XAE.ConnectivityBaseVS": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.0.1"
+    },
+    "TwinCAT.XAE.ConnectivityBaseVS.TcXaeShell": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.0.1"
+    },
+    "TwinCAT.XAE.ConnectivityBaseVS.TcXaeShell64": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.0.1"
+    },
+    "TwinCAT.XAE.ConnectivityBaseVS.VS2017": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.0.1"
+    },
+    "TwinCAT.XAE.ConnectivityBaseVS.VS2019": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.0.1"
+    },
+    "TwinCAT.XAE.ConnectivityBaseVS.VS2022": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.0.1"
+    },
+    "TwinCAT.XAE.ControllerBaseVS": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.5"
+    },
+    "TwinCAT.XAE.ControllerBaseVS.TcXaeShell": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.5"
+    },
+    "TwinCAT.XAE.ControllerBaseVS.TcXaeShell64": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.5"
+    },
+    "TwinCAT.XAE.ControllerBaseVS.VS2017": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.5"
+    },
+    "TwinCAT.XAE.ControllerBaseVS.VS2019": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.5"
+    },
+    "TwinCAT.XAE.ControllerBaseVS.VS2022": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.5"
+    },
+    "TwinCAT.XAE.CppPlatformWizard": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.4.9"
+    },
+    "TwinCAT.XAE.CppPlatformWizard.VS2017": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.4.9"
+    },
+    "TwinCAT.XAE.CppPlatformWizard.VS2019": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.4.9"
+    },
+    "TwinCAT.XAE.CppPlatformWizard.VS2022": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.4.9"
+    },
+    "TwinCAT.XAE.CppSupport": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.4.6"
+    },
+    "TwinCAT.XAE.CppSupport.VS2017": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.4.6"
+    },
+    "TwinCAT.XAE.CppSupport.VS2019": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.4.6"
+    },
+    "TwinCAT.XAE.CppSupport.VS2022": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.4.6"
+    },
+    "TwinCAT.XAE.CppSupportCNC": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.20"
+    },
+    "TwinCAT.XAE.CppSymbolConverter": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.2"
+    },
+    "TwinCAT.XAE.CppUtils": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.233"
+    },
+    "TwinCAT.XAE.DALI": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.0"
+    },
+    "TwinCAT.XAE.DataBaseConfiguratorStandalone": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.36.4"
+    },
+    "TwinCAT.XAE.DatabaseConfiguratorVS": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.36.4"
+    },
+    "TwinCAT.XAE.DatabaseConfiguratorVS.TcXaeShell": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.36.4"
+    },
+    "TwinCAT.XAE.DatabaseConfiguratorVS.TcXaeShell64": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.36.4"
+    },
+    "TwinCAT.XAE.DatabaseConfiguratorVS.VS2017": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.36.4"
+    },
+    "TwinCAT.XAE.DatabaseConfiguratorVS.VS2019": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.36.4"
+    },
+    "TwinCAT.XAE.DatabaseConfiguratorVS.VS2022": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.36.4"
+    },
+    "TwinCAT.XAE.DataExchangeLabVIEW": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.7.3"
+    },
+    "TwinCAT.XAE.DataExchangeMATLAB": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.10.255"
+    },
+    "TwinCAT.XAE.DataExchangeMATLABSimulink": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.10.255"
+    },
+    "TwinCAT.XAE.DataExchangeSimulink": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.10.255"
+    },
+    "TwinCAT.XAE.Debugger": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.7.13"
+    },
+    "TwinCAT.XAE.Debugger.TcXaeShell": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.7.13"
+    },
+    "TwinCAT.XAE.Debugger.TcXaeShell64": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.7.13"
+    },
+    "TwinCAT.XAE.Debugger.VS2017": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.7.13"
+    },
+    "TwinCAT.XAE.Debugger.VS2019": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.7.13"
+    },
+    "TwinCAT.XAE.Debugger.VS2022": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.7.13"
+    },
+    "TwinCAT.XAE.DocDataProvider": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.8"
+    },
+    "TwinCAT.XAE.DocDataProvider.TcXaeShell64": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.8"
+    },
+    "TwinCAT.XAE.DocDataProvider.VS2019": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.8"
+    },
+    "TwinCAT.XAE.DocDataProvider.VS2022": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.8"
+    },
+    "TwinCAT.XAE.DocumentationGeneration": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.1.1"
+    },
+    "TwinCAT.XAE.DocumentationGeneration.TcXaeShell": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.1.1"
+    },
+    "TwinCAT.XAE.DocumentationGeneration.TcXaeShell64": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.1.1"
+    },
+    "TwinCAT.XAE.DocumentationGeneration.VS2017": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.1.1"
+    },
+    "TwinCAT.XAE.DocumentationGeneration.VS2019": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.1.1"
+    },
+    "TwinCAT.XAE.DocumentationGeneration.VS2022": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.1.1"
+    },
+    "TwinCAT.XAE.DriveManager": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.64"
+    },
+    "TwinCAT.XAE.DriveManager-Classic": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.1.2"
+    },
+    "TwinCAT.XAE.DriveManager.Classic": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.1.8"
+    },
+    "TwinCAT.XAE.DriveManager.TcXaeShell": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.64"
+    },
+    "TwinCAT.XAE.DriveManager.TcXaeShell64": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.64"
+    },
+    "TwinCAT.XAE.DriveManager.VS2017": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.64"
+    },
+    "TwinCAT.XAE.DriveManager.VS2019": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.64"
+    },
+    "TwinCAT.XAE.DriveManager.VS2022": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.64"
+    },
+    "TwinCAT.XAE.EAPConfigurator": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.1"
+    },
+    "TwinCAT.XAE.EAPConfigurator.TcXaeShell": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.1"
+    },
+    "TwinCAT.XAE.EAPConfigurator.TcXaeShell64": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.1"
+    },
+    "TwinCAT.XAE.EAPConfigurator.VS2017": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.1"
+    },
+    "TwinCAT.XAE.EAPConfigurator.VS2019": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.1"
+    },
+    "TwinCAT.XAE.EAPConfigurator.VS2022": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.1"
+    },
+    "TwinCAT.XAE.EL6201": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.6"
+    },
+    "TwinCAT.XAE.EL6692Master": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.5"
+    },
+    "TwinCAT.XAE.EL6692Slave": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.4"
+    },
+    "TwinCAT.XAE.EL6695": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.9"
+    },
+    "TwinCAT.XAE.EmbeddedBrowser": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "18.0.10"
+    },
+    "TwinCAT.XAE.EmbeddedBrowser.TcXaeShell": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "18.0.10"
+    },
+    "TwinCAT.XAE.EmbeddedBrowser.TcXaeShell64": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "18.0.10"
+    },
+    "TwinCAT.XAE.EmbeddedBrowser.VS2017": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "18.0.10"
+    },
+    "TwinCAT.XAE.EmbeddedBrowser.VS2019": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "18.0.10"
+    },
+    "TwinCAT.XAE.EmbeddedBrowser.VS2022": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "18.0.10"
+    },
+    "TwinCAT.XAE.EtherCATConfig": {
+      "changeCount": 16,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.126"
+    },
+    "TwinCAT.XAE.EtherCATSlave": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.7"
+    },
+    "TwinCAT.XAE.EtherCATTopology": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.2.0"
+    },
+    "TwinCAT.XAE.Eventlogger": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.4.12"
+    },
+    "TwinCAT.XAE.Eventlogger.TcXaeShell": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.4.12"
+    },
+    "TwinCAT.XAE.Eventlogger.TcXaeShell64": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.4.12"
+    },
+    "TwinCAT.XAE.Eventlogger.VS2017": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.4.12"
+    },
+    "TwinCAT.XAE.Eventlogger.VS2019": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.4.12"
+    },
+    "TwinCAT.XAE.Eventlogger.VS2022": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.4.12"
+    },
+    "TwinCAT.XAE.EventloggerExcelAddIn": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.2.6"
+    },
+    "TwinCAT.XAE.EventloggerProxy": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.8.31"
+    },
+    "TwinCAT.XAE.FieldbussesBase": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.16.1"
+    },
+    "TwinCAT.XAE.FilterAdapter": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.8.1"
+    },
+    "TwinCAT.XAE.FilterDesigner": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.49.62"
+    },
+    "TwinCAT.XAE.FilterDesigner.TcXaeShell": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.49.62"
+    },
+    "TwinCAT.XAE.FilterDesigner.TcXaeShell64": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.49.62"
+    },
+    "TwinCAT.XAE.FilterDesigner.VS2017": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.49.62"
+    },
+    "TwinCAT.XAE.FilterDesigner.VS2019": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.49.62"
+    },
+    "TwinCAT.XAE.FilterDesigner.VS2022": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.49.62"
+    },
+    "TwinCAT.XAE.Gas": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "15.0.17"
+    },
+    "TwinCAT.XAE.Gas.SystemManager": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-08-29",
+      "lastVersion": "10.0.9"
+    },
+    "TwinCAT.XAE.Gas.SystemManager.WebUI": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "10.6.3"
+    },
+    "TwinCAT.XAE.Gas.WebUI": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "12.0.4"
+    },
+    "TwinCAT.XAE.GigEVision": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.8.4"
+    },
+    "TwinCAT.XAE.HART": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.4"
+    },
+    "TwinCAT.XAE.HydraulicCommissioning": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.31"
+    },
+    "TwinCAT.XAE.IEEE1588": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.3"
+    },
+    "TwinCAT.XAE.Integration": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.13.0"
+    },
+    "TwinCAT.XAE.Integration.TcXaeShell": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.13.0"
+    },
+    "TwinCAT.XAE.Integration.TcXaeShell64": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.13.0"
+    },
+    "TwinCAT.XAE.Integration.VS2017": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.13.0"
+    },
+    "TwinCAT.XAE.Integration.VS2019": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.13.0"
+    },
+    "TwinCAT.XAE.Integration.VS2022": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.13.0"
+    },
+    "TwinCAT.XAE.IOLink": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.21"
+    },
+    "TwinCAT.XAE.IotDataAgentConfigurator": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.3.51"
+    },
+    "TwinCAT.XAE.MeasurementBaseVS": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.49.42"
+    },
+    "TwinCAT.XAE.MeasurementBaseVS.TcXaeShell": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.49.42"
+    },
+    "TwinCAT.XAE.MeasurementBaseVS.TcXaeShell64": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.49.42"
+    },
+    "TwinCAT.XAE.MeasurementBaseVS.VS2017": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.49.42"
+    },
+    "TwinCAT.XAE.MeasurementBaseVS.VS2019": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.49.42"
+    },
+    "TwinCAT.XAE.MeasurementBaseVS.VS2022": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.49.42"
+    },
+    "TwinCAT.XAE.MigrateCli": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.845"
+    },
+    "TwinCAT.XAE.ModelManagerCore": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.3"
+    },
+    "TwinCAT.XAE.ModelManagerVS": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.3"
+    },
+    "TwinCAT.XAE.ModelManagerVS.TcXaeShell": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.3"
+    },
+    "TwinCAT.XAE.ModelManagerVS.TcXaeShell64": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.3"
+    },
+    "TwinCAT.XAE.ModelManagerVS.VS2017": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.3"
+    },
+    "TwinCAT.XAE.ModelManagerVS.VS2019": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.3"
+    },
+    "TwinCAT.XAE.ModelManagerVS.VS2022": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.3"
+    },
+    "TwinCAT.XAE.ModuleGeneratorFMI": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.8.161"
+    },
+    "TwinCAT.XAE.ModuleGeneratorFMIVS": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.8.161"
+    },
+    "TwinCAT.XAE.ModuleGeneratorFMIVS.VS2017": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.8.161"
+    },
+    "TwinCAT.XAE.ModuleGeneratorFMIVS.VS2019": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.8.161"
+    },
+    "TwinCAT.XAE.ModuleGeneratorFMIVS.VS2022": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.8.161"
+    },
+    "TwinCAT.XAE.ModuleGeneratorMATLAB": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.10.297"
+    },
+    "TwinCAT.XAE.ModuleGeneratorMATLABSimulink": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.10.297"
+    },
+    "TwinCAT.XAE.ModuleGeneratorSimulink": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.10.297"
+    },
+    "TwinCAT.XAE.Motion.CppSupport": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.1"
+    },
+    "TwinCAT.XAE.MotionConfigurator": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.3"
+    },
+    "TwinCAT.XAE.MotionConfigurator.TcXaeShell": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.3"
+    },
+    "TwinCAT.XAE.MotionConfigurator.TcXaeShell64": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.3"
+    },
+    "TwinCAT.XAE.MotionConfigurator.VS2017": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.3"
+    },
+    "TwinCAT.XAE.MotionConfigurator.VS2019": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.3"
+    },
+    "TwinCAT.XAE.MotionConfigurator.VS2022": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.3"
+    },
+    "TwinCAT.XAE.MotionDesigner": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.5.1"
+    },
+    "TwinCAT.XAE.MotionDesigner.TcXaeShell": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.5.1"
+    },
+    "TwinCAT.XAE.MotionDesigner.TcXaeShell64": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.5.1"
+    },
+    "TwinCAT.XAE.MotionDesigner.VS2017": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.5.1"
+    },
+    "TwinCAT.XAE.MotionDesigner.VS2019": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.5.1"
+    },
+    "TwinCAT.XAE.MotionDesigner.VS2022": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.5.1"
+    },
+    "TwinCAT.XAE.MTP": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.9.22"
+    },
+    "TwinCAT.XAE.MTP.TcXaeShell64": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.9.22"
+    },
+    "TwinCAT.XAE.MTP.VS2022": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.9.22"
+    },
+    "TwinCAT.XAE.MultiArray": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.2.6"
+    },
+    "TwinCAT.XAE.Multiuser": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.2.6"
+    },
+    "TwinCAT.XAE.Multiuser.TcXaeShell": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.2.6"
+    },
+    "TwinCAT.XAE.Multiuser.TcXaeShell64": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.2.6"
+    },
+    "TwinCAT.XAE.Multiuser.VS2017": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.2.6"
+    },
+    "TwinCAT.XAE.Multiuser.VS2019": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.2.6"
+    },
+    "TwinCAT.XAE.Multiuser.VS2022": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.2.6"
+    },
+    "TwinCAT.XAE.OpcUa": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.6.140"
+    },
+    "TwinCAT.XAE.OpcUa.RM": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.5.73"
+    },
+    "TwinCAT.XAE.OpcUaConfiguratorStandalone": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.13"
+    },
+    "TwinCAT.XAE.OpcUaConfiguratorVS": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.77"
+    },
+    "TwinCAT.XAE.OpcUaConfiguratorVS.TcXaeShell": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.77"
+    },
+    "TwinCAT.XAE.OpcUaConfiguratorVS.TcXaeShell64": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.77"
+    },
+    "TwinCAT.XAE.OpcUaConfiguratorVS.VS2017": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.77"
+    },
+    "TwinCAT.XAE.OpcUaConfiguratorVS.VS2019": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.77"
+    },
+    "TwinCAT.XAE.OpcUaConfiguratorVS.VS2022": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.77"
+    },
+    "TwinCAT.XAE.OpcUaNodesetEditor": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.1.12"
+    },
+    "TwinCAT.XAE.OpcUaSampleClient": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.8.1"
+    },
+    "TwinCAT.XAE.OpcUaSampleServer": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.1"
+    },
+    "TwinCAT.XAE.PlasticApplication": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "12.12.2"
+    },
+    "TwinCAT.XAE.PLC": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.12.7"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_BACnetRev12": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.6.6"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_ControllerToolbox": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.6.5"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_Coupler": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.2"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_DALI": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.7.4"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_DataExchange": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.2"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_DMX": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.6.4"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_Drive": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.14"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_EIB": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.4"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_EnOcean": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.5.2"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_EtherCAT": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.6.3"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_EthernetIP": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.2"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_FTP": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.2"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_GENIbus": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.2"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_Hydraulics": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.31"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_IEC60870_5_10x": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.11.2"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_IoFunctions": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.5"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_KL85xx": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.5.5"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_LON": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.2"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_Math": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.5.1"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_MBus": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.5.2"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_MC2": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.69"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_MC2_Camming": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.6"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_MC2_Drive": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.51"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_MC2_FlyingSaw": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.10"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_MC2_XFC": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.31"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_MDP": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.1"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_ModbusRTU": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.6.1"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_ModbusSrv": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.5.1"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_MPBus": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.7.2"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_Nc": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.11"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_NcDrive": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.7"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_NcFifoAxes": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.7"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_NCI": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.19"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_NciXFC": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.11"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_NcKinematicTransformation": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.2.11"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_OpcUA": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.3"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_PfwLib_Processing": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.0"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_PlcInterpolation": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.22"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_ProfinetDiag": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.5.2"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_RFID": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.2"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_SerialCom": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.6"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_SMI": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.2"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_Smtp": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.2"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_SPA": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.5.1"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_Standard": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.5"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_SUPS": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.6"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_System": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.9.1"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_SystemC69xx": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.2"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_SystemCX": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.5.3"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_TcpIp": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.2"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_TempController": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.2"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_Utilities": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.10.1"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_XmlDataSrv": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.8"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_Acsi": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.1.31"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_AnalyticsCommunication": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.237"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_AnalyticsStorageProvider": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.2.11"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_BA_Common": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.2.4"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_BA2": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.4.2"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_BA2_Common": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.2.53"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_BACnetRev14": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.3.1"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_Ber": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.1.31"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_Collections": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.1.31"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_DALI": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.24.2"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_Database": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.5.4"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_DriveMotionControl": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.0.15"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_DynamicMemory": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.4"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_EtherCATDiag": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.12"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_EventLogger": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.13"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_FTP": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.5"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_Gse": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.1.31"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_HeartbeatConnectionMonitoring": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.1"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_iec61850": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.1.31"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_iec61850_8_1": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.1.31"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_IoLink": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.9"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_IotBase": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.5.3"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_IotCommunicator": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.2.7"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_IotFunctions": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.3"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_IPCDiag": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.2.2"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_JsonXml": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.7"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_MC2_AdvancedHoming": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.0.29"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_MC2_AdvancedHoming_XFC": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.0.10"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_MLL": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.3"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_MlServer": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.0.2"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_Mms": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.1.31"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_Module": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.5"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_MTP": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.0.9"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_mxAutomation": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.1.306"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_mxAutomationV3_0": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.0.403"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_mxAutomationV3_1": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.1.3"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_mxAutomationV3_2": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.2.4"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_mxAutomationV3_3": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.302"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_OCPP": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.4"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_OpcUa": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.7"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_PackML": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.2"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_PackML_V2": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.2"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_PackML_V3": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.6"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_PlasticBaseApplication": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "12.12.10"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_PlasticBaseApplicationElectric": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "12.12.10"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_PlasticFunctions": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "12.10.7"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_PlasticHydraulic": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "12.10.7"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_PlasticNc": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "12.10.7"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_PLCopen_OpcUa": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.3"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_RealtimeMonitoring": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.3"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_Rfc1006": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.1.31"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_S7Comm": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.4"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_Sockets": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.1.31"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_Tpkt": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.1.31"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_Ulosi": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.1.31"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_Units": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.3"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_UniValPlc": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.1.6"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_UniValPlc_v4": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.1.107"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_UniValPlc_v4_3": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.3.5"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_UniValPlc_v4_4": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.4.105"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_UniValPlc_v4_5": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.5.2"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_UniValPlc_v4_6": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.6.2"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_Wind": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.1.7"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_XPlanarUtility": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.5.19"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_XTS_Utility": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.3.31"
+    },
+    "TwinCAT.XAE.PLC.RM.4018.57": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "18.57.6"
+    },
+    "TwinCAT.XAE.PLC.RM.4020.56": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "20.56.3"
+    },
+    "TwinCAT.XAE.PLC.RM.4022.16": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "22.16.2"
+    },
+    "TwinCAT.XAE.PLC.RM.4022.22": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "22.22.4"
+    },
+    "TwinCAT.XAE.PLC.RM.4022.27": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "22.27.5"
+    },
+    "TwinCAT.XAE.PLC.RM.4022.29": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "22.29.4"
+    },
+    "TwinCAT.XAE.PLC.RM.4022.30": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "22.30.1"
+    },
+    "TwinCAT.XAE.PLC.RM.4022.36": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "22.36.1"
+    },
+    "TwinCAT.XAE.PLC.RM.4024.10": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.10.3"
+    },
+    "TwinCAT.XAE.PLC.RM.4024.11": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.11.3"
+    },
+    "TwinCAT.XAE.PLC.RM.4024.12": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.12.4"
+    },
+    "TwinCAT.XAE.PLC.RM.4024.17": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.17.4"
+    },
+    "TwinCAT.XAE.PLC.RM.4024.22": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.22.5"
+    },
+    "TwinCAT.XAE.PLC.RM.4024.25": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.25.4"
+    },
+    "TwinCAT.XAE.PLC.RM.4024.27": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.0"
+    },
+    "TwinCAT.XAE.PLC.RM.4024.29": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.29.5"
+    },
+    "TwinCAT.XAE.PLC.RM.4024.32": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.32.1"
+    },
+    "TwinCAT.XAE.PLC.RM.4024.35": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.35.27"
+    },
+    "TwinCAT.XAE.PLC.RM.4024.40": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.40.67"
+    },
+    "TwinCAT.XAE.PLC.RM.4024.47": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.47.6"
+    },
+    "TwinCAT.XAE.PLC.RM.4024.50": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.50.6"
+    },
+    "TwinCAT.XAE.PLC.RM.4024.53": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.53.9"
+    },
+    "TwinCAT.XAE.PLC.RM.4024.55": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.55.22"
+    },
+    "TwinCAT.XAE.PLC.RM.4024.56": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.56.6"
+    },
+    "TwinCAT.XAE.PLC.RM.4024.59": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.59.7"
+    },
+    "TwinCAT.XAE.PLC.RM.4024.62": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.62.35"
+    },
+    "TwinCAT.XAE.PLC.RM.4024.64": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.64.1"
+    },
+    "TwinCAT.XAE.PLC.RM.4024.65": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.65.2"
+    },
+    "TwinCAT.XAE.PLC.RM.4024.66": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.66.1"
+    },
+    "TwinCAT.XAE.PLC.RM.4024.67": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.67.1"
+    },
+    "TwinCAT.XAE.PLC.RM.4024.7": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.7.36"
+    },
+    "TwinCAT.XAE.PLC.RM.4026.0": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.0.6"
+    },
+    "TwinCAT.XAE.PLC.RM.4026.1": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.1.19"
+    },
+    "TwinCAT.XAE.PLC.RM.4026.10": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.3.2"
+    },
+    "TwinCAT.XAE.PLC.RM.4026.11": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.4.4"
+    },
+    "TwinCAT.XAE.PLC.RM.4026.12": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.5.3"
+    },
+    "TwinCAT.XAE.PLC.RM.4026.13": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.6.4"
+    },
+    "TwinCAT.XAE.PLC.RM.4026.14": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.7.11"
+    },
+    "TwinCAT.XAE.PLC.RM.4026.15": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.8.15"
+    },
+    "TwinCAT.XAE.PLC.RM.4026.16": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.9.2"
+    },
+    "TwinCAT.XAE.PLC.RM.4026.17": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.10.8"
+    },
+    "TwinCAT.XAE.PLC.RM.4026.18": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.11.5"
+    },
+    "TwinCAT.XAE.PLC.RM.4026.2": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.2.8"
+    },
+    "TwinCAT.XAE.PLC.RM.4026.3": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.9"
+    },
+    "TwinCAT.XAE.PLC.RM.4026.4": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.3"
+    },
+    "TwinCAT.XAE.PLC.RM.4026.5": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.6.16"
+    },
+    "TwinCAT.XAE.PLC.RM.4026.6": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.8.1"
+    },
+    "TwinCAT.XAE.PLC.RM.4026.7": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.0.2"
+    },
+    "TwinCAT.XAE.PLC.RM.4026.8": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.1.6"
+    },
+    "TwinCAT.XAE.PLC.RM.4026.9": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.2.3"
+    },
+    "TwinCAT.XAE.PLC.Tc2ProjectConverter": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.2.1"
+    },
+    "TwinCAT.XAE.PLC.TcXaeShell": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.12.7"
+    },
+    "TwinCAT.XAE.PLC.TcXaeShell64": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.12.7"
+    },
+    "TwinCAT.XAE.PLC.VS2017": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.12.7"
+    },
+    "TwinCAT.XAE.PLC.VS2019": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.12.7"
+    },
+    "TwinCAT.XAE.PLC.VS2022": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.12.7"
+    },
+    "TwinCAT.XAE.PowerMonitoring": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.34.3"
+    },
+    "TwinCAT.XAE.ProjectCompare": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.22"
+    },
+    "TwinCAT.XAE.ProjectCompare.TcXaeShell": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.22"
+    },
+    "TwinCAT.XAE.ProjectCompare.TcXaeShell64": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.22"
+    },
+    "TwinCAT.XAE.ProjectCompare.VS2017": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.22"
+    },
+    "TwinCAT.XAE.ProjectCompare.VS2019": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.22"
+    },
+    "TwinCAT.XAE.ProjectCompare.VS2022": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.22"
+    },
+    "TwinCAT.XAE.PRP": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.4"
+    },
+    "TwinCAT.XAE.PublicSDK": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.20.4"
+    },
+    "TwinCAT.XAE.PublicSDK.VS2017": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.20.4"
+    },
+    "TwinCAT.XAE.PublicSDK.VS2019": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.20.4"
+    },
+    "TwinCAT.XAE.PublicSDK.VS2022": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.20.4"
+    },
+    "TwinCAT.XAE.RealtimeMonitor": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.4.28"
+    },
+    "TwinCAT.XAE.S7Communication": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.5"
+    },
+    "TwinCAT.XAE.SafetyEditor": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.3.4"
+    },
+    "TwinCAT.XAE.SafetyEditor.RM.4018.57": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "18.57.6"
+    },
+    "TwinCAT.XAE.SafetyEditor.RM.4020.56": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "20.56.3"
+    },
+    "TwinCAT.XAE.SafetyEditor.RM.4022.16": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "22.16.2"
+    },
+    "TwinCAT.XAE.SafetyEditor.RM.4022.22": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "22.22.4"
+    },
+    "TwinCAT.XAE.SafetyEditor.RM.4022.27": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "22.27.5"
+    },
+    "TwinCAT.XAE.SafetyEditor.RM.4022.29": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "22.29.4"
+    },
+    "TwinCAT.XAE.SafetyEditor.RM.4022.30": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "22.30.1"
+    },
+    "TwinCAT.XAE.SafetyEditor.RM.4022.36": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "22.36.1"
+    },
+    "TwinCAT.XAE.SafetyEditor.RM.4024.10": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.10.3"
+    },
+    "TwinCAT.XAE.SafetyEditor.RM.4024.7": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.7.36"
+    },
+    "TwinCAT.XAE.SafetyEditor.TcXaeShell": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.3.4"
+    },
+    "TwinCAT.XAE.SafetyEditor.TcXaeShell64": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.3.4"
+    },
+    "TwinCAT.XAE.SafetyEditor.VS2017": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.3.4"
+    },
+    "TwinCAT.XAE.SafetyEditor.VS2019": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.3.4"
+    },
+    "TwinCAT.XAE.SafetyEditor.VS2022": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.3.4"
+    },
+    "TwinCAT.XAE.ScopeView": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.49.142"
+    },
+    "TwinCAT.XAE.ScopeView.TcXaeShell": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.49.142"
+    },
+    "TwinCAT.XAE.ScopeView.TcXaeShell64": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.49.142"
+    },
+    "TwinCAT.XAE.ScopeView.VS2017": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.49.142"
+    },
+    "TwinCAT.XAE.ScopeView.VS2019": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.49.142"
+    },
+    "TwinCAT.XAE.ScopeView.VS2022": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.49.142"
+    },
+    "TwinCAT.XAE.Shell": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.18.0"
+    },
+    "TwinCAT.XAE.Shell64": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "7.13.0"
+    },
+    "TwinCAT.XAE.SpeechVS": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.3"
+    },
+    "TwinCAT.XAE.SpeechVS.TcXaeShell": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.3"
+    },
+    "TwinCAT.XAE.SpeechVS.TcXaeShell64": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.3"
+    },
+    "TwinCAT.XAE.SpeechVS.VS2017": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.3"
+    },
+    "TwinCAT.XAE.SpeechVS.VS2019": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.3"
+    },
+    "TwinCAT.XAE.SpeechVS.VS2022": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.3"
+    },
+    "TwinCAT.XAE.StandaloneTypesystem_1_16": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.16.25"
+    },
+    "TwinCAT.XAE.StandaloneTypesystem_2_7": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.7.110"
+    },
+    "TwinCAT.XAE.StandaloneTypesystem_2_8": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.8.57"
+    },
+    "TwinCAT.XAE.SupportInformationReport": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.17.10"
+    },
+    "TwinCAT.XAE.SystemManagerBase": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.6.5"
+    },
+    "TwinCAT.XAE.SystemManagerBase.RM.4026.0": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.3.14"
+    },
+    "TwinCAT.XAE.SystemManagerBase.RM.4026.1": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.3.22"
+    },
+    "TwinCAT.XAE.SystemManagerBase.RM.4026.10": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.4.14"
+    },
+    "TwinCAT.XAE.SystemManagerBase.RM.4026.11": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.4.46"
+    },
+    "TwinCAT.XAE.SystemManagerBase.RM.4026.12": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.4.72"
+    },
+    "TwinCAT.XAE.SystemManagerBase.RM.4026.13": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.5.25"
+    },
+    "TwinCAT.XAE.SystemManagerBase.RM.4026.14": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.5.49"
+    },
+    "TwinCAT.XAE.SystemManagerBase.RM.4026.15": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.5.69"
+    },
+    "TwinCAT.XAE.SystemManagerBase.RM.4026.16": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.5.83"
+    },
+    "TwinCAT.XAE.SystemManagerBase.RM.4026.17": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.5.103"
+    },
+    "TwinCAT.XAE.SystemManagerBase.RM.4026.18": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.5.131"
+    },
+    "TwinCAT.XAE.SystemManagerBase.RM.4026.2": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.3.39"
+    },
+    "TwinCAT.XAE.SystemManagerBase.RM.4026.3": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.3.51"
+    },
+    "TwinCAT.XAE.SystemManagerBase.RM.4026.4": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.3.73"
+    },
+    "TwinCAT.XAE.SystemManagerBase.RM.4026.5": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.3.93"
+    },
+    "TwinCAT.XAE.SystemManagerBase.RM.4026.6": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.3.112"
+    },
+    "TwinCAT.XAE.SystemManagerBase.RM.4026.8": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.3.144"
+    },
+    "TwinCAT.XAE.SystemManagerBase.RM.4026.9": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.3.153"
+    },
+    "TwinCAT.XAE.SystemManagerInterops": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.9.0"
+    },
+    "TwinCAT.XAE.SystemManagerVS": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.6.5"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4018.57": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "18.57.6"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4020.56": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "20.56.3"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4022.16": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "22.16.2"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4022.22": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "22.22.4"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4022.27": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "22.27.5"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4022.29": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "22.29.4"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4022.30": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "22.30.1"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4022.36": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "22.36.1"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4024.10": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.10.3"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4024.11": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.11.3"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4024.12": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.12.4"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4024.17": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.17.4"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4024.22": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.22.5"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4024.25": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.25.4"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4024.27": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.0"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4024.29": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.29.5"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4024.32": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.32.1"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4024.35": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.35.27"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4024.40": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.40.67"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4024.47": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.47.6"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4024.50": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.50.6"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4024.53": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.53.9"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4024.55": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.55.22"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4024.56": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.56.6"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4024.59": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.59.7"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4024.62": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.62.35"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4024.64": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.64.1"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4024.65": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.65.2"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4024.66": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.66.1"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4024.67": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.67.1"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4024.7": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.7.36"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4026.0": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.3.14"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4026.1": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.3.22"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4026.10": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.4.14"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4026.11": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.4.46"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4026.12": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.4.72"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4026.13": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.5.25"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4026.14": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.5.49"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4026.15": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.5.69"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4026.16": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.5.83"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4026.17": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.5.103"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4026.18": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.5.131"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4026.2": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.3.39"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4026.3": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.3.51"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4026.4": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.3.73"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4026.5": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.3.93"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4026.6": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.3.112"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4026.8": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.3.144"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4026.9": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.3.153"
+    },
+    "TwinCAT.XAE.SystemManagerVS.TcXaeShell": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.6.5"
+    },
+    "TwinCAT.XAE.SystemManagerVS.TcXaeShell64": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.6.5"
+    },
+    "TwinCAT.XAE.SystemManagerVS.VS2017": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.6.5"
+    },
+    "TwinCAT.XAE.SystemManagerVS.VS2019": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.6.5"
+    },
+    "TwinCAT.XAE.SystemManagerVS.VS2022": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.6.5"
+    },
+    "TwinCAT.XAE.TargetBrowser": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.98"
+    },
+    "TwinCAT.XAE.TargetBrowserAnalytics": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.43"
+    },
+    "TwinCAT.XAE.TargetBrowserDatabaseServer": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.36.4"
+    },
+    "TwinCAT.XAE.TargetBrowserOpcUa": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.133"
+    },
+    "TwinCAT.XAE.TargetBrowserScope": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.35"
+    },
+    "TwinCAT.XAE.TargetBrowserVS": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.98"
+    },
+    "TwinCAT.XAE.TargetBrowserVS.TcXaeShell": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.98"
+    },
+    "TwinCAT.XAE.TargetBrowserVS.TcXaeShell64": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.98"
+    },
+    "TwinCAT.XAE.TargetBrowserVS.VS2017": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.98"
+    },
+    "TwinCAT.XAE.TargetBrowserVS.VS2019": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.98"
+    },
+    "TwinCAT.XAE.TargetBrowserVS.VS2022": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.98"
+    },
+    "TwinCAT.XAE.Tc2Engineering": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.23"
+    },
+    "TwinCAT.XAE.Telecontrol": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.98.18"
+    },
+    "TwinCAT.XAE.TMC": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.5.12"
+    },
+    "TwinCAT.XAE.TMC.TcXaeShell": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.5.12"
+    },
+    "TwinCAT.XAE.TMC.TcXaeShell64": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.5.12"
+    },
+    "TwinCAT.XAE.TMC.VS2017": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.5.12"
+    },
+    "TwinCAT.XAE.TMC.VS2019": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.5.12"
+    },
+    "TwinCAT.XAE.TMC.VS2022": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.5.12"
+    },
+    "TwinCAT.XAE.TMX.AnalyticsKernel": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.8.29"
+    },
+    "TwinCAT.XAE.TMX.AnalyticsLogger": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.237"
+    },
+    "TwinCAT.XAE.TMX.BodePlot": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.13"
+    },
+    "TwinCAT.XAE.TMX.ConditionMonitoring": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.30.3"
+    },
+    "TwinCAT.XAE.TMX.DataExchange": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.36"
+    },
+    "TwinCAT.XAE.TMX.Filter": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.9.1"
+    },
+    "TwinCAT.XAE.TMX.GigEVision": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.8.4"
+    },
+    "TwinCAT.XAE.TMX.MatSimUtilities": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.18"
+    },
+    "TwinCAT.XAE.TMX.MLCore": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.3"
+    },
+    "TwinCAT.XAE.TMX.MlServer": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.0.2"
+    },
+    "TwinCAT.XAE.TMX.MultiArray": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.2.10"
+    },
+    "TwinCAT.XAE.TMX.NcObjects": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.2.5"
+    },
+    "TwinCAT.XAE.TMX.OCPP": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.4"
+    },
+    "TwinCAT.XAE.TMX.PowerMonitoring": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.36.4"
+    },
+    "TwinCAT.XAE.TMX.PowerSystems": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.1.0"
+    },
+    "TwinCAT.XAE.TMX.Speech": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.4"
+    },
+    "TwinCAT.XAE.TMX.Vision": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.8.4"
+    },
+    "TwinCAT.XAE.TMX.Weighing": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.2.2"
+    },
+    "TwinCAT.XAE.TMX.Wind": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.1.7"
+    },
+    "TwinCAT.XAE.TMX.XPlanar": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.5.43"
+    },
+    "TwinCAT.XAE.TMX.XTS": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.3.95"
+    },
+    "TwinCAT.XAE.ToolsBaseMATLABSimulink": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.1217"
+    },
+    "TwinCAT.XAE.Vision": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.8.4"
+    },
+    "TwinCAT.XAE.VisionCommon": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.7.4"
+    },
+    "TwinCAT.XAE.XCADInterface": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.2.26"
+    },
+    "TwinCAT.XAE.XCADInterface.TcXaeShell": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.2.26"
+    },
+    "TwinCAT.XAE.XCADInterface.TcXaeShell64": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.2.26"
+    },
+    "TwinCAT.XAE.XCADInterface.VS2017": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.2.26"
+    },
+    "TwinCAT.XAE.XCADInterface.VS2019": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.2.26"
+    },
+    "TwinCAT.XAE.XCADInterface.VS2022": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.2.26"
+    },
+    "TwinCAT.XAE.XPlanar.Config": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.5.43"
+    },
+    "TwinCAT.XAE.XPlanarConfig": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.1.13"
+    },
+    "TwinCAT.XAE.XtsTechnologyVS": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.3.46"
+    },
+    "TwinCAT.XAE.XtsTechnologyVS.TcXaeShell": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.3.46"
+    },
+    "TwinCAT.XAE.XtsTechnologyVS.TcXaeShell64": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.3.46"
+    },
+    "TwinCAT.XAE.XtsTechnologyVS.VS2017": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.3.46"
+    },
+    "TwinCAT.XAE.XtsTechnologyVS.VS2019": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.3.46"
+    },
+    "TwinCAT.XAE.XtsTechnologyVS.VS2022": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.3.46"
+    },
+    "TwinCAT.XAE.XtsViewer": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.3.46"
+    },
+    "TwinCAT.XAR.AdsApi": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.2.6"
+    },
+    "TwinCAT.XAR.AdvancedMotion": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.19"
+    },
+    "TwinCAT.XAR.Analytics": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.19.2"
+    },
+    "TwinCAT.XAR.AnalyticsStorageProvider": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.16.29"
+    },
+    "TwinCAT.XAR.BACnet": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.1.12"
+    },
+    "TwinCAT.XAR.Base": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.8"
+    },
+    "TwinCAT.XAR.ClassicOcrModel": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.5.5"
+    },
+    "TwinCAT.XAR.CNC-E": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.10.0"
+    },
+    "TwinCAT.XAR.CNC.CyclesUtility": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.9.1"
+    },
+    "TwinCAT.XAR.CNC.Export": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.27.0"
+    },
+    "TwinCAT.XAR.CNC.KinematicOptimization": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.9.1"
+    },
+    "TwinCAT.XAR.CNC.Measurement": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.9.1"
+    },
+    "TwinCAT.XAR.CNC.MillingBase": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.9.1"
+    },
+    "TwinCAT.XAR.CxDevice": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.6"
+    },
+    "TwinCAT.XAR.DatabaseServer": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.36.4"
+    },
+    "TwinCAT.XAR.DriversBase": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.21.3"
+    },
+    "TwinCAT.XAR.ESB": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.4.3"
+    },
+    "TwinCAT.XAR.EtherCATSimulation": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.5"
+    },
+    "TwinCAT.XAR.EtherCATSlave": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.3.3"
+    },
+    "TwinCAT.XAR.EthernetCaptureTool": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.80"
+    },
+    "TwinCAT.XAR.EtherNetIP": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.2.2"
+    },
+    "TwinCAT.XAR.FtpClient": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.0.9"
+    },
+    "TwinCAT.XAR.IEEE1588": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.1.2"
+    },
+    "TwinCAT.XAR.IotDataAgent": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.11.4"
+    },
+    "TwinCAT.XAR.LineControl": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.4"
+    },
+    "TwinCAT.XAR.MeasurementCore": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.222"
+    },
+    "TwinCAT.XAR.MlServer": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.0.2"
+    },
+    "TwinCAT.XAR.ModbusTcpServer": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.17"
+    },
+    "TwinCAT.XAR.MultiConfigCoupler": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.1.2"
+    },
+    "TwinCAT.XAR.Multiuser": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.5"
+    },
+    "TwinCAT.XAR.NCI.Classic": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.1.5010"
+    },
+    "TwinCAT.XAR.NCI.GST": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.2.19"
+    },
+    "TwinCAT.XAR.NCPTP": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.1.5034"
+    },
+    "TwinCAT.XAR.NdisDriver": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.1.8"
+    },
+    "TwinCAT.XAR.OcrModelClassic": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.8.4"
+    },
+    "TwinCAT.XAR.OpcUa": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.8.128"
+    },
+    "TwinCAT.XAR.OpcUaClient": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.2.35"
+    },
+    "TwinCAT.XAR.OpcUaGateway": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.7.0"
+    },
+    "TwinCAT.XAR.OpcUaServer": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.2.123"
+    },
+    "TwinCAT.XAR.OpcUaSysTray": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.3.28"
+    },
+    "TwinCAT.XAR.PLC": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.1.12"
+    },
+    "TwinCAT.XAR.PlcHmi": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.11"
+    },
+    "TwinCAT.XAR.PlcHmiWeb": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.10"
+    },
+    "TwinCAT.XAR.PnP": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.4.1"
+    },
+    "TwinCAT.XAR.Profinet": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.6.0"
+    },
+    "TwinCAT.XAR.PRP": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.5"
+    },
+    "TwinCAT.XAR.Realtime": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.2.2"
+    },
+    "TwinCAT.XAR.ReportingServer": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.3.20"
+    },
+    "TwinCAT.XAR.S7Communication": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.1.10"
+    },
+    "TwinCAT.XAR.ScopeServer": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.49.108"
+    },
+    "TwinCAT.XAR.SerialCommunicationServer": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.8"
+    },
+    "TwinCAT.XAR.SmsSmtp": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.1"
+    },
+    "TwinCAT.XAR.Speech": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.16"
+    },
+    "TwinCAT.XAR.SwitchRuntime": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.3.0"
+    },
+    "TwinCAT.XAR.SystemServiceLib": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.0"
+    },
+    "TwinCAT.XAR.TcpIpServer": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.16"
+    },
+    "TwinCAT.XAR.UiClient": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.10.0"
+    },
+    "TwinCAT.XAR.USB": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.2.0"
+    },
+    "TwinCAT.XAR.UserModeRuntime": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.18.3"
+    },
+    "TwinCAT.XAR.VirtualMp": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.3"
+    },
+    "TwinCAT.XAR.VirtualSerialComPort": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.35.1"
+    },
+    "TwinCAT.XAR.VisionService": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.8.4"
+    },
+    "TwinCAT.XAR.XmlServer": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.37.5"
+    },
+    "TwinCAT.XARUM.AdvancedMotion": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.19"
+    },
+    "TwinCAT.XARUM.CNC.Export": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.27.0"
+    },
+    "TwinCAT.XARUM.NCPTP": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.1.5034"
+    },
+    "TypeScript.Beckhoff": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.9.2"
+    },
+    "vcredist100.Beckhoff": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "10.0.40219.325"
+    },
+    "vcredist140.Beckhoff": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.44.35211"
+    },
+    "vcredist90.Beckhoff": {
+      "changeCount": 2,
+      "firstSeen": "2025-08-22",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "9.0.30729.5677"
+    },
+    "Beckhoff.libusbapi": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.4.3"
+    },
+    "Beckhoff.mosquitto": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.18"
+    },
+    "Beckhoff.Tailscale": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.2.3"
+    },
+    "net.6.0.DesktopRuntime.Beckhoff": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "6.0.19.32618"
+    },
+    "netfx.4.6.1.Beckhoff": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.6.1056"
+    },
+    "netfx.4.6.2.Beckhoff": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.6.1590"
+    },
+    "Python.Beckhoff.tchmi.llm": {
+      "changeCount": 6,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.1.17"
+    },
+    "SetupTestPackage": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.0.9"
+    },
+    "TC1100.IO.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.0.0"
+    },
+    "TC1100.IO.XAR": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.0.0"
+    },
+    "TC1200.PLC.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.0.0"
+    },
+    "TC1200.PLC.XAR": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.0.0"
+    },
+    "TE1040.TestFramework.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.11.18"
+    },
+    "TE1130.InterfaceForInventor.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.2.54"
+    },
+    "TE1132.InterfaceForSOLIDWORKS.XAE": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.2.33"
+    },
+    "TestWorkloadPF": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.0.1"
+    },
+    "TwinCAT.ADM.RestApi": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.26"
+    },
+    "TwinCAT.AFM.BridgingGatewayConfigApi": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.1"
+    },
+    "TwinCAT.HMI.BA.BaSite": {
+      "changeCount": 7,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.13.4"
+    },
+    "TwinCAT.HMI.BA.Controls": {
+      "changeCount": 7,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.13.4"
+    },
+    "TwinCAT.HMI.BA.Framework": {
+      "changeCount": 7,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.13.4"
+    },
+    "TwinCAT.HMI.BA.Icons": {
+      "changeCount": 7,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.13.4"
+    },
+    "TwinCAT.HMI.BA.ProjectTemplates": {
+      "changeCount": 7,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.13.4"
+    },
+    "TwinCAT.HMI.McpServer": {
+      "changeCount": 9,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.4.21"
+    },
+    "TwinCAT.HMI.Server.Python": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.3.121"
+    },
+    "TwinCAT.MC3.XAE": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.0.8"
+    },
+    "TwinCAT.SIM.InterfaceForInventor": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.2.54"
+    },
+    "TwinCAT.SIM.InterfaceForNX": {
+      "changeCount": 7,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.2.63"
+    },
+    "TwinCAT.SIM.InterfaceForSOLIDWORKS": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.2.40"
+    },
+    "TwinCAT.XAE.AdsWebservice": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.3"
+    },
+    "TwinCAT.XAE.AdvancedMotion.TestUtilities": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.19"
+    },
+    "TwinCAT.XAE.AnalyticsLogger": {
+      "changeCount": 15,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.3.27"
+    },
+    "TwinCAT.XAE.BA.PlcTemplateRepository": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.7.3"
+    },
+    "TwinCAT.XAE.BA.PlcTemplateRepository.TcXaeShell": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.7.3"
+    },
+    "TwinCAT.XAE.BA.PlcTemplateRepository.TcXaeShell64": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.7.3"
+    },
+    "TwinCAT.XAE.BA.PlcTemplateRepository.VS2017": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.7.3"
+    },
+    "TwinCAT.XAE.BA.PlcTemplateRepository.VS2019": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.7.3"
+    },
+    "TwinCAT.XAE.BA.PlcTemplateRepository.VS2022": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.7.3"
+    },
+    "TwinCAT.XAE.BA.PlcTemplatesXBA": {
+      "changeCount": 6,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "6.1.31"
+    },
+    "TwinCAT.XAE.BA.SiteExplorer": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.4.12"
+    },
+    "TwinCAT.XAE.ChatVS": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.5.6"
+    },
+    "TwinCAT.XAE.ChatVS.TcXaeShell": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.5.6"
+    },
+    "TwinCAT.XAE.ChatVS.TcXaeShell64": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.5.6"
+    },
+    "TwinCAT.XAE.ChatVS.VS2017": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.5.6"
+    },
+    "TwinCAT.XAE.ChatVS.VS2019": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.5.6"
+    },
+    "TwinCAT.XAE.ChatVS.VS2022": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.5.6"
+    },
+    "TwinCAT.XAE.CoAgent": {
+      "changeCount": 19,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.8.21"
+    },
+    "TwinCAT.XAE.CoAgent.Rag.Server": {
+      "changeCount": 9,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.1"
+    },
+    "TwinCAT.XAE.CoAgentVS": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.5.15"
+    },
+    "TwinCAT.XAE.CoAgentVS.TcXaeShell": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.5.14"
+    },
+    "TwinCAT.XAE.CoAgentVS.TcXaeShell64": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.5.15"
+    },
+    "TwinCAT.XAE.CoAgentVS.VS2017": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.5.15"
+    },
+    "TwinCAT.XAE.CoAgentVS.VS2019": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.5.15"
+    },
+    "TwinCAT.XAE.CoAgentVS.VS2022": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.5.15"
+    },
+    "TwinCAT.XAE.EL6821": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.0"
+    },
+    "TwinCAT.XAE.FDT": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.0"
+    },
+    "TwinCAT.XAE.Gas.Chat": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.6.2"
+    },
+    "TwinCAT.XAE.Gas.ComBridge": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-10-14",
+      "lastVersion": "0.2.6"
+    },
+    "TwinCAT.XAE.Gas.Measurement.Analytics": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.9.41"
+    },
+    "TwinCAT.XAE.Gas.Measurement.Webcharting": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.9.18"
+    },
+    "TwinCAT.XAE.Gas.Profiler": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.1"
+    },
+    "TwinCAT.XAE.IDE": {
+      "changeCount": 11,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.0.37"
+    },
+    "TwinCAT.XAE.LLVM": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "18.1.2"
+    },
+    "TwinCAT.XAE.MotionUi": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.4.16"
+    },
+    "TwinCAT.XAE.MotionUi.TcXaeShell": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.113"
+    },
+    "TwinCAT.XAE.MotionUi.TcXaeShell64": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.113"
+    },
+    "TwinCAT.XAE.MotionUi.VS2017": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.113"
+    },
+    "TwinCAT.XAE.MotionUi.VS2019": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.113"
+    },
+    "TwinCAT.XAE.MotionUi.VS2022": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.113"
+    },
+    "TwinCAT.XAE.MqttPlugin": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.5"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_BA": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.3"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_BABasic": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.2.2"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_BA": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.2.3"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_BA2_Simulation": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.0.3"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_ControllerRedundancy": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.2"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_EtherCATExtSync": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.3"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_LS": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.2"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_MBus": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.0.5"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_MeasurementCore": {
+      "changeCount": 35,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.260"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_PlasticBaseApplicationEletric": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "12.11.9"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_PlcTestFramework": {
+      "changeCount": 7,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.11.25"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_PlcTestUtilitiesGeneric": {
+      "changeCount": 7,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.11.25"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_PlcTestUtilitiesMC2": {
+      "changeCount": 7,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.11.25"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_PlcTestUtilitiesNcI": {
+      "changeCount": 7,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.11.25"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_TestCmn": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.1.1"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_XBA": {
+      "changeCount": 6,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.6.19"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_XtsInterface": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.3.95"
+    },
+    "TwinCAT.XAE.PLC.RM.4018.58": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "18.58.4"
+    },
+    "TwinCAT.XAE.PLC.RM.4022.14": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "22.14.1"
+    },
+    "TwinCAT.XAE.PLC.RM.4024.42": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.42.18"
+    },
+    "TwinCAT.XAE.PLC.RM.4024.44": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.44.7"
+    },
+    "TwinCAT.XAE.PLC.RM.4024.60": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.60.1"
+    },
+    "TwinCAT.XAE.PLC.RM.4026.19": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.12.7"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_ControllerToolbox": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_Coupler": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_DALI": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_DataExchange": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_DMX": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_Drive": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_EIB": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_EnOcean": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_EtherCAT": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_IoFunctions": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_KL85xx": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_LON": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_Math": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_MBus": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_MC2": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_MC2_Camming": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_MC2_Drive": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_MC2_FlyingSaw": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_MC2_XFC": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_MDP": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_ModbusRTU": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_ModbusSrv": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_MPBus": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_NC": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_NcDrive": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_NcFifoAxes": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_NCI": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_NciXFC": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_NcKinematicTransformation": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_OpcUA": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_PlcInterpolation": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_ProfinetDiag": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_RFID": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_SerialCom": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_SMI": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_SPA": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_SUPS": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_System": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_SystemC69xx": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_SystemCX": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_TcpIp": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_TempController": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_Utilities": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc2_XmlDataSrv": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc3_DriveMotionControl": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc3_DynamicMemory": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc3_EtherCATExtSync": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc3_EventLogger": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc3_IotFunctions": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc3_IPCDiag": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc3_JsonXml": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc3_Legacy": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc3_Legacy_ReMap": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.59"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc3_MC2_AdvancedHoming": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc3_MC2_AdvancedHoming_XFC": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc3_Mc3Drive": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc3_Module": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc3_PackML": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc3_PackML_V2": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.PLCpp.Lib.Tc3_TestFrame": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.3.80"
+    },
+    "TwinCAT.XAE.SafetyEditor.RM.4018.58": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "18.58.4"
+    },
+    "TwinCAT.XAE.SafetyEditor.RM.4022.14": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "22.14.1"
+    },
+    "TwinCAT.XAE.SystemManagerBase.RM.4026.19": {
+      "changeCount": 16,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.6.5"
+    },
+    "TwinCAT.XAE.SystemManagerBase.RM.4026.7": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.3.135"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4018.58": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "18.58.4"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4022.14": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "22.14.1"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4024.42": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.42.18"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4024.44": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.44.7"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4024.60": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.60.1"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4026.19": {
+      "changeCount": 16,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.6.5"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4026.7": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.3.135"
+    },
+    "TwinCAT.XAE.TestFramework": {
+      "changeCount": 6,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.11.25"
+    },
+    "TwinCAT.XAE.TMX.AnalyticsVision": {
+      "changeCount": 6,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.29"
+    },
+    "TwinCAT.XAE.TMX.Motion.CoggingCompensation": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.3"
+    },
+    "TwinCAT.XAE.UI.Motion.MC3.Base": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.11"
+    },
+    "TwinCAT.XAE.UI.Motion.MC3.Base.TcXaeShell": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.11"
+    },
+    "TwinCAT.XAE.UI.Motion.MC3.Base.TcXaeShell64": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.11"
+    },
+    "TwinCAT.XAE.UI.Motion.MC3.Base.VS2017": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.11"
+    },
+    "TwinCAT.XAE.UI.Motion.MC3.Base.VS2019": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.11"
+    },
+    "TwinCAT.XAE.UI.Motion.MC3.Base.VS2022": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.11"
+    },
+    "TwinCAT.XAE.UI.Motion.MC3.Camming": {
+      "changeCount": 12,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.33"
+    },
+    "TwinCAT.XAE.UI.Motion.MC3.Camming.TcXaeShell": {
+      "changeCount": 12,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.33"
+    },
+    "TwinCAT.XAE.UI.Motion.MC3.Camming.TcXaeShell64": {
+      "changeCount": 12,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.33"
+    },
+    "TwinCAT.XAE.UI.Motion.MC3.Camming.VS2017": {
+      "changeCount": 12,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.33"
+    },
+    "TwinCAT.XAE.UI.Motion.MC3.Camming.VS2019": {
+      "changeCount": 12,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.33"
+    },
+    "TwinCAT.XAE.UI.Motion.MC3.Camming.VS2022": {
+      "changeCount": 12,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.33"
+    },
+    "TwinCAT.XAE.UI.Motion.MC3.CoordinatedMotion": {
+      "changeCount": 12,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.33"
+    },
+    "TwinCAT.XAE.UI.Motion.MC3.FluidPower": {
+      "changeCount": 12,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.33"
+    },
+    "TwinCAT.XAE.UI.Motion.MC3.LinearMotion": {
+      "changeCount": 12,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.33"
+    },
+    "TwinCAT.XAE.UI.Motion.MC3.PlanarMotion": {
+      "changeCount": 12,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.33"
+    },
+    "TwinCAT.XAE.UI.Motion.MC3.PTP": {
+      "changeCount": 12,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.33"
+    },
+    "TwinCAT.XAE.UI.Motion.MC3.PTP.TcXaeShell": {
+      "changeCount": 12,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.33"
+    },
+    "TwinCAT.XAE.UI.Motion.MC3.PTP.TcXaeShell64": {
+      "changeCount": 12,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.33"
+    },
+    "TwinCAT.XAE.UI.Motion.MC3.PTP.VS2017": {
+      "changeCount": 12,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.33"
+    },
+    "TwinCAT.XAE.UI.Motion.MC3.PTP.VS2019": {
+      "changeCount": 12,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.33"
+    },
+    "TwinCAT.XAE.UI.Motion.MC3.PTP.VS2022": {
+      "changeCount": 12,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.33"
+    },
+    "TwinCAT.XAE.XtsSupportAssistant": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "4.4.1"
+    },
+    "TwinCAT.XAR.CaptureTool": {
+      "changeCount": 4,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-09-16",
+      "lastVersion": "1.0.11"
+    },
+    "TwinCAT.XAR.UsbService": {
+      "changeCount": 3,
+      "firstSeen": "2025-08-26",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.1.0"
+    },
+    "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3Base": {
+      "changeCount": 7,
+      "firstSeen": "2025-08-27",
+      "lastSeen": "2025-10-30",
+      "lastVersion": "0.4.27"
+    },
+    "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3Base_Preview": {
+      "changeCount": 7,
+      "firstSeen": "2025-08-27",
+      "lastSeen": "2025-10-30",
+      "lastVersion": "0.4.27"
+    },
+    "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3Camming": {
+      "changeCount": 7,
+      "firstSeen": "2025-08-27",
+      "lastSeen": "2025-10-30",
+      "lastVersion": "0.4.27"
+    },
+    "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3CoordinatedMotion": {
+      "changeCount": 7,
+      "firstSeen": "2025-08-27",
+      "lastSeen": "2025-10-30",
+      "lastVersion": "0.4.27"
+    },
+    "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3FluidPower": {
+      "changeCount": 7,
+      "firstSeen": "2025-08-27",
+      "lastSeen": "2025-10-30",
+      "lastVersion": "0.4.27"
+    },
+    "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3FluidPower_Preview": {
+      "changeCount": 7,
+      "firstSeen": "2025-08-27",
+      "lastSeen": "2025-10-30",
+      "lastVersion": "0.4.27"
+    },
+    "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3LinearMotion": {
+      "changeCount": 7,
+      "firstSeen": "2025-08-27",
+      "lastSeen": "2025-10-30",
+      "lastVersion": "0.4.27"
+    },
+    "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3PlanarMotion": {
+      "changeCount": 7,
+      "firstSeen": "2025-08-27",
+      "lastSeen": "2025-10-30",
+      "lastVersion": "0.4.27"
+    },
+    "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3Ptp": {
+      "changeCount": 7,
+      "firstSeen": "2025-08-27",
+      "lastSeen": "2025-10-30",
+      "lastVersion": "0.4.27"
+    },
+    "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3Robotics": {
+      "changeCount": 7,
+      "firstSeen": "2025-08-27",
+      "lastSeen": "2025-10-30",
+      "lastVersion": "0.4.27"
+    },
+    "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3Utilities": {
+      "changeCount": 1,
+      "firstSeen": "2025-08-27",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.4.16"
+    },
+    "TwinCAT.XAE.Plc.Lib.Motion.Tc3_Physics": {
+      "changeCount": 7,
+      "firstSeen": "2025-08-27",
+      "lastSeen": "2025-10-30",
+      "lastVersion": "0.4.27"
+    },
+    "TwinCAT.XAE.TMX.Motion.MC3.Atro": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-27",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.4.31"
+    },
+    "TwinCAT.XAE.TMX.Motion.MC3.Base": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-27",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.4.31"
+    },
+    "TwinCAT.XAE.TMX.Motion.MC3.Camming": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-27",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.4.31"
+    },
+    "TwinCAT.XAE.TMX.Motion.MC3.CoordinatedMotion": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-27",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.4.31"
+    },
+    "TwinCAT.XAE.TMX.Motion.MC3.FluidPower": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-27",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.4.31"
+    },
+    "TwinCAT.XAE.TMX.Motion.MC3.LinearMotion": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-27",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.4.31"
+    },
+    "TwinCAT.XAE.TMX.Motion.MC3.PlanarMotion": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-27",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.4.31"
+    },
+    "TwinCAT.XAE.TMX.Motion.MC3.Ptp": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-27",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.4.31"
+    },
+    "TwinCAT.XAE.TMX.Motion.Physics": {
+      "changeCount": 8,
+      "firstSeen": "2025-08-27",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.4.31"
+    },
+    "TE1700.CoAgent.XAE": {
+      "changeCount": 5,
+      "firstSeen": "2025-08-28",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.2.0"
+    },
+    "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3Camming_Preview": {
+      "changeCount": 7,
+      "firstSeen": "2025-08-28",
+      "lastSeen": "2025-10-30",
+      "lastVersion": "0.4.27"
+    },
+    "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3LinearMotion_Preview": {
+      "changeCount": 7,
+      "firstSeen": "2025-08-28",
+      "lastSeen": "2025-10-30",
+      "lastVersion": "0.4.27"
+    },
+    "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3Ptp_Preview": {
+      "changeCount": 7,
+      "firstSeen": "2025-08-28",
+      "lastSeen": "2025-10-30",
+      "lastVersion": "0.4.27"
+    },
+    "TwinCAT.XAE.CNC.Docs.Diagnosis": {
+      "changeCount": 1,
+      "firstSeen": "2025-08-29",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.0"
+    },
+    "TwinCAT.XAE.PLC.RM.4024.68": {
+      "changeCount": 1,
+      "firstSeen": "2025-09-02",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.68.1"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4024.68": {
+      "changeCount": 1,
+      "firstSeen": "2025-09-02",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "24.68.1"
+    },
+    "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3LinearMotion_TestUtilities": {
+      "changeCount": 6,
+      "firstSeen": "2025-09-04",
+      "lastSeen": "2025-10-30",
+      "lastVersion": "0.4.27"
+    },
+    "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3Ptp_Utilities": {
+      "changeCount": 6,
+      "firstSeen": "2025-09-04",
+      "lastSeen": "2025-10-30",
+      "lastVersion": "0.4.27"
+    },
+    "TwinCAT.XAE.SystemManagerBase.TcIde": {
+      "changeCount": 21,
+      "firstSeen": "2025-09-05",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.7.1"
+    },
+    "TF8040.BuildingAutomation.XAE": {
+      "changeCount": 7,
+      "firstSeen": "2025-09-09",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "6.0.2"
+    },
+    "TwinCAT.XAE.PLC.RM.4026.20": {
+      "changeCount": 1,
+      "firstSeen": "2025-09-23",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "5.13.0"
+    },
+    "TwinCAT.XAE.SystemManagerBase.RM.4026.20": {
+      "changeCount": 3,
+      "firstSeen": "2025-09-23",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.6.17"
+    },
+    "TwinCAT.XAE.SystemManagerVS.RM.4026.20": {
+      "changeCount": 3,
+      "firstSeen": "2025-09-23",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.6.17"
+    },
+    "TwinCAT.XAR.IotCommunicatorPushAgent": {
+      "changeCount": 1,
+      "firstSeen": "2025-10-01",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.1.6"
+    },
+    "TwinCAT.XAE.CoAgent.Rag.Base": {
+      "changeCount": 1,
+      "firstSeen": "2025-10-16",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.1.4"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc2_HVAC": {
+      "changeCount": 1,
+      "firstSeen": "2025-10-21",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.4.3"
+    },
+    "TwinCAT.XAR.RealtimeMonitorServer": {
+      "changeCount": 2,
+      "firstSeen": "2025-10-21",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.6"
+    },
+    "TwinCAT.HMI.CoAgent": {
+      "changeCount": 2,
+      "firstSeen": "2025-10-24",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "14.4.21"
+    },
+    "TwinCAT.HMI.XPlanar": {
+      "changeCount": 4,
+      "firstSeen": "2025-10-24",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.0.3"
+    },
+    "TwinCAT.HMI.XPlanar.Controls": {
+      "changeCount": 3,
+      "firstSeen": "2025-10-24",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.0.3"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_Mc3Definitions": {
+      "changeCount": 2,
+      "firstSeen": "2025-10-25",
+      "lastSeen": "2025-10-28",
+      "lastVersion": "0.4.28"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_McCollisionAvoidance": {
+      "changeCount": 2,
+      "firstSeen": "2025-10-25",
+      "lastSeen": "2025-10-28",
+      "lastVersion": "0.4.28"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_McCompensations": {
+      "changeCount": 2,
+      "firstSeen": "2025-10-25",
+      "lastSeen": "2025-10-28",
+      "lastVersion": "0.4.28"
+    },
+    "TwinCAT.XAE.PLC.Lib.Tc3_McCoordinatedMotion": {
+      "changeCount": 2,
+      "firstSeen": "2025-10-25",
+      "lastSeen": "2025-10-28",
+      "lastVersion": "0.4.28"
+    },
+    "Python.Beckhoff.tcalydataexchange": {
+      "changeCount": 1,
+      "firstSeen": "2025-10-30",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "3.3.252"
+    },
+    "Python.Beckhoff.tccpputilshelper": {
+      "changeCount": 1,
+      "firstSeen": "2025-10-30",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.0.276"
+    },
+    "Python.Beckhoff.tctypesystem": {
+      "changeCount": 1,
+      "firstSeen": "2025-10-30",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "2.8.114"
+    },
+    "TwinCAT.XAE.PLC.Lib.Motion.MC3.Tc3_Mc3Base": {
+      "changeCount": 2,
+      "firstSeen": "2025-10-30",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.4.31"
+    },
+    "TwinCAT.XAE.PLC.Lib.Motion.MC3.Tc3_Mc3Base_Preview": {
+      "changeCount": 2,
+      "firstSeen": "2025-10-30",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.4.31"
+    },
+    "TwinCAT.XAE.PLC.Lib.Motion.MC3.Tc3_Mc3Camming": {
+      "changeCount": 2,
+      "firstSeen": "2025-10-30",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.4.31"
+    },
+    "TwinCAT.XAE.PLC.Lib.Motion.MC3.Tc3_Mc3Camming_Preview": {
+      "changeCount": 2,
+      "firstSeen": "2025-10-30",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.4.31"
+    },
+    "TwinCAT.XAE.PLC.Lib.Motion.MC3.Tc3_Mc3CoordinatedMotion": {
+      "changeCount": 2,
+      "firstSeen": "2025-10-30",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.4.31"
+    },
+    "TwinCAT.XAE.PLC.Lib.Motion.MC3.Tc3_Mc3FluidPower": {
+      "changeCount": 2,
+      "firstSeen": "2025-10-30",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.4.31"
+    },
+    "TwinCAT.XAE.PLC.Lib.Motion.MC3.Tc3_Mc3FluidPower_Preview": {
+      "changeCount": 2,
+      "firstSeen": "2025-10-30",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.4.31"
+    },
+    "TwinCAT.XAE.PLC.Lib.Motion.MC3.Tc3_Mc3LinearMotion": {
+      "changeCount": 2,
+      "firstSeen": "2025-10-30",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.4.31"
+    },
+    "TwinCAT.XAE.PLC.Lib.Motion.MC3.Tc3_Mc3LinearMotion_Preview": {
+      "changeCount": 2,
+      "firstSeen": "2025-10-30",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.4.31"
+    },
+    "TwinCAT.XAE.PLC.Lib.Motion.MC3.Tc3_Mc3LinearMotion_TestUtilities": {
+      "changeCount": 2,
+      "firstSeen": "2025-10-30",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.4.31"
+    },
+    "TwinCAT.XAE.PLC.Lib.Motion.MC3.Tc3_Mc3PlanarMotion": {
+      "changeCount": 2,
+      "firstSeen": "2025-10-30",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.4.31"
+    },
+    "TwinCAT.XAE.PLC.Lib.Motion.MC3.Tc3_Mc3Ptp": {
+      "changeCount": 2,
+      "firstSeen": "2025-10-30",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.4.31"
+    },
+    "TwinCAT.XAE.PLC.Lib.Motion.MC3.Tc3_Mc3Ptp_Preview": {
+      "changeCount": 2,
+      "firstSeen": "2025-10-30",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.4.31"
+    },
+    "TwinCAT.XAE.PLC.Lib.Motion.MC3.Tc3_Mc3Ptp_Utilities": {
+      "changeCount": 2,
+      "firstSeen": "2025-10-30",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.4.31"
+    },
+    "TwinCAT.XAE.PLC.Lib.Motion.MC3.Tc3_Mc3Robotics": {
+      "changeCount": 2,
+      "firstSeen": "2025-10-30",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.4.31"
+    },
+    "TwinCAT.XAE.PLC.Lib.Motion.Tc3_Physics": {
+      "changeCount": 2,
+      "firstSeen": "2025-10-30",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.4.31"
+    },
+    "TwinCAT.XAE.UI.3DConfigurator": {
+      "changeCount": 1,
+      "firstSeen": "2025-11-01",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.1.6"
+    },
+    "TwinCAT.XAE.UI.3DConfigurator.TcXaeShell": {
+      "changeCount": 1,
+      "firstSeen": "2025-11-01",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.1.6"
+    },
+    "TwinCAT.XAE.UI.3DConfigurator.TcXaeShell64": {
+      "changeCount": 1,
+      "firstSeen": "2025-11-01",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.1.6"
+    },
+    "TwinCAT.XAE.UI.3DConfigurator.VS2017": {
+      "changeCount": 1,
+      "firstSeen": "2025-11-01",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.1.6"
+    },
+    "TwinCAT.XAE.UI.3DConfigurator.VS2019": {
+      "changeCount": 1,
+      "firstSeen": "2025-11-01",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.1.6"
+    },
+    "TwinCAT.XAE.UI.3DConfigurator.VS2022": {
+      "changeCount": 1,
+      "firstSeen": "2025-11-01",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "0.1.6"
+    },
+    "TwinCAT.XAE.CNC.Docs.MillingBase": {
+      "changeCount": 1,
+      "firstSeen": "2025-11-04",
+      "lastSeen": "2025-11-06",
+      "lastVersion": "1.0.0"
+    }
+  },
+  "totals": {
+    "adds": 2340,
+    "removals": 23,
+    "updates": 1388
+  },
+  "lastRunDate": "2025-11-06"
+}

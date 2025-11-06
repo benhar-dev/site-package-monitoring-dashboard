@@ -1,0 +1,96 @@
+{
+  "date": "2025-10-23",
+  "counts": {
+    "added": 0,
+    "removed": 0,
+    "updated": 14
+  },
+  "added": [],
+  "removed": [],
+  "updated": [
+    {
+      "Id": "TF3520.AnalyticsStorageProvider.XAE",
+      "from": "33.16.0",
+      "to": "33.16.1",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TF3520.AnalyticsStorageProvider.XAR",
+      "from": "33.16.0",
+      "to": "33.16.1",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.McpServer",
+      "from": "14.4.19",
+      "to": "14.4.20",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.SystemEngineering",
+      "from": "14.3.10",
+      "to": "14.4.216",
+      "Source": "Beckhoff Testing Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.SystemEngineeringUtils",
+      "from": "14.3.15",
+      "to": "14.3.280",
+      "Source": "Beckhoff Testing Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AnalyticsStorageProvider",
+      "from": "3.16.8",
+      "to": "3.16.29",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AnalyticsStorageProvider.TcXaeShell",
+      "from": "3.16.8",
+      "to": "3.16.29",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AnalyticsStorageProvider.TcXaeShell64",
+      "from": "3.16.8",
+      "to": "3.16.29",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AnalyticsStorageProvider.VS2017",
+      "from": "3.16.8",
+      "to": "3.16.29",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AnalyticsStorageProvider.VS2019",
+      "from": "3.16.8",
+      "to": "3.16.29",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AnalyticsStorageProvider.VS2022",
+      "from": "3.16.8",
+      "to": "3.16.29",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.CoAgent",
+      "from": "0.8.12",
+      "to": "0.8.15",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_AnalyticsStorageProvider",
+      "from": "1.2.10",
+      "to": "1.2.11",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAR.AnalyticsStorageProvider",
+      "from": "3.16.8",
+      "to": "3.16.29",
+      "Source": "Beckhoff Stable Feed"
+    }
+  ]
+}

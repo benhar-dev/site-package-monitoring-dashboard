@@ -1,0 +1,99 @@
+{
+  "date": "2025-08-28",
+  "counts": {
+    "added": 4,
+    "removed": 0,
+    "updated": 11
+  },
+  "added": [
+    {
+      "Id": "TE1700.CoAgent.XAE",
+      "Version": "0.1.0",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3Camming_Preview",
+      "Version": "0.4.16",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3LinearMotion_Preview",
+      "Version": "0.4.16",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3Ptp_Preview",
+      "Version": "0.4.16",
+      "Source": "Beckhoff Experimental Feed"
+    }
+  ],
+  "removed": [],
+  "updated": [
+    {
+      "Id": "TF610x.OpcUaClientPubSub.XAE",
+      "from": "1.0.9",
+      "to": "1.0.10",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TF610x.OpcUaClientPubSub.XAR",
+      "from": "1.0.9",
+      "to": "1.0.10",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TF8330.PowerCollector.XAE",
+      "from": "0.0.8",
+      "to": "0.0.9",
+      "Source": "Beckhoff Testing Feed"
+    },
+    {
+      "Id": "TF8350.PowerTechnologies.XAE",
+      "from": "0.0.8",
+      "to": "0.0.9",
+      "Source": "Beckhoff Testing Feed"
+    },
+    {
+      "Id": "TF8360.PowerControl.XAE",
+      "from": "0.0.8",
+      "to": "0.0.9",
+      "Source": "Beckhoff Testing Feed"
+    },
+    {
+      "Id": "TwinCAT.MC3.XAE",
+      "from": "0.0.1",
+      "to": "0.0.3",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.OpcUa",
+      "from": "1.6.138",
+      "to": "1.6.140",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.OpcUaSampleServer",
+      "from": "1.0.19",
+      "to": "1.1.1",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerBase.RM.4026.19",
+      "from": "2.5.158",
+      "to": "2.5.160",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerVS.RM.4026.19",
+      "from": "2.5.158",
+      "to": "2.5.160",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAR.OpcUa",
+      "from": "1.8.126",
+      "to": "1.8.128",
+      "Source": "Beckhoff Stable Feed"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "date": "2025-10-25",
+  "counts": {
+    "added": 4,
+    "removed": 0,
+    "updated": 3
+  },
+  "added": [
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_Mc3Definitions",
+      "Version": "0.4.28",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_McCollisionAvoidance",
+      "Version": "0.4.28",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_McCompensations",
+      "Version": "0.4.28",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_McCoordinatedMotion",
+      "Version": "0.4.28",
+      "Source": "Beckhoff Experimental Feed"
+    }
+  ],
+  "removed": [],
+  "updated": [
+    {
+      "Id": "TwinCAT.XAE.EtherCATConfig",
+      "from": "2.0.121",
+      "to": "2.0.122",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_MeasurementCore",
+      "from": "3.3.247",
+      "to": "3.3.248",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAR.Profinet",
+      "from": "2.5.1",
+      "to": "2.6.0",
+      "Source": "Beckhoff Stable Feed"
+    }
+  ]
+}

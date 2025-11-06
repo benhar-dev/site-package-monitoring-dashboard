@@ -1,0 +1,82 @@
+{
+  "date": "2025-09-23",
+  "counts": {
+    "added": 3,
+    "removed": 0,
+    "updated": 9
+  },
+  "added": [
+    {
+      "Id": "TwinCAT.XAE.PLC.RM.4026.20",
+      "Version": "5.13.0",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerBase.RM.4026.20",
+      "Version": "2.6.17",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerVS.RM.4026.20",
+      "Version": "2.6.17",
+      "Source": "Beckhoff Experimental Feed"
+    }
+  ],
+  "removed": [],
+  "updated": [
+    {
+      "Id": "TF5890.XPlanar.XAE",
+      "from": "4.5.1",
+      "to": "4.5.2",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.SIM.InterfaceForNX",
+      "from": "1.2.55",
+      "to": "1.2.62",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_XPlanarUtility",
+      "from": "4.5.16",
+      "to": "4.5.19",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.RM.4024.42",
+      "from": "24.42.17",
+      "to": "24.42.18",
+      "Source": "Beckhoff Outdated Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerBase.TcIde",
+      "from": "2.6.14",
+      "to": "2.6.17",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerVS.RM.4024.42",
+      "from": "24.42.17",
+      "to": "24.42.18",
+      "Source": "Beckhoff Outdated Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.TMX.AnalyticsVision",
+      "from": "1.0.28",
+      "to": "1.0.29",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.TMX.XPlanar",
+      "from": "4.5.37",
+      "to": "4.5.43",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.XPlanar.Config",
+      "from": "4.5.37",
+      "to": "4.5.43",
+      "Source": "Beckhoff Stable Feed"
+    }
+  ]
+}

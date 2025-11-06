@@ -1,0 +1,438 @@
+{
+  "date": "2025-10-09",
+  "counts": {
+    "added": 0,
+    "removed": 0,
+    "updated": 71
+  },
+  "added": [],
+  "removed": [],
+  "updated": [
+    {
+      "Id": "TE1300.ScopeViewProfessional.XAE",
+      "from": "34.49.10",
+      "to": "34.49.12",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TE3500.AnalyticsWorkbench.XAE",
+      "from": "34.49.10",
+      "to": "34.49.12",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TE3520.AnalyticsServiceTool.XAE",
+      "from": "34.49.10",
+      "to": "34.49.12",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TF3300.ScopeServer.XAR",
+      "from": "34.49.10",
+      "to": "34.49.12",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TF6730.IotCommunicator.XAE",
+      "from": "1.2.5",
+      "to": "1.2.7",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AnalyticsWorkbench",
+      "from": "4.49.567",
+      "to": "4.49.575",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AnalyticsWorkbench.TcXaeShell",
+      "from": "4.49.567",
+      "to": "4.49.575",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AnalyticsWorkbench.TcXaeShell64",
+      "from": "4.49.567",
+      "to": "4.49.575",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AnalyticsWorkbench.VS2017",
+      "from": "4.49.567",
+      "to": "4.49.575",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AnalyticsWorkbench.VS2019",
+      "from": "4.49.567",
+      "to": "4.49.575",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AnalyticsWorkbench.VS2022",
+      "from": "4.49.567",
+      "to": "4.49.575",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.CoAgent",
+      "from": "0.8.7",
+      "to": "0.8.8",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.EtherCATConfig",
+      "from": "2.0.113",
+      "to": "2.0.117",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.MeasurementBaseVS",
+      "from": "4.49.38",
+      "to": "4.49.42",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.MeasurementBaseVS.TcXaeShell",
+      "from": "4.49.38",
+      "to": "4.49.42",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.MeasurementBaseVS.TcXaeShell64",
+      "from": "4.49.38",
+      "to": "4.49.42",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.MeasurementBaseVS.VS2017",
+      "from": "4.49.38",
+      "to": "4.49.42",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.MeasurementBaseVS.VS2019",
+      "from": "4.49.38",
+      "to": "4.49.42",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.MeasurementBaseVS.VS2022",
+      "from": "4.49.38",
+      "to": "4.49.42",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3Base",
+      "from": "0.4.25",
+      "to": "0.4.26",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3Base_Preview",
+      "from": "0.4.25",
+      "to": "0.4.26",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3Camming",
+      "from": "0.4.25",
+      "to": "0.4.26",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3Camming_Preview",
+      "from": "0.4.25",
+      "to": "0.4.26",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3CoordinatedMotion",
+      "from": "0.4.25",
+      "to": "0.4.26",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3FluidPower",
+      "from": "0.4.25",
+      "to": "0.4.26",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3FluidPower_Preview",
+      "from": "0.4.25",
+      "to": "0.4.26",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3LinearMotion",
+      "from": "0.4.25",
+      "to": "0.4.26",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3LinearMotion_Preview",
+      "from": "0.4.25",
+      "to": "0.4.26",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3LinearMotion_TestUtilities",
+      "from": "0.4.25",
+      "to": "0.4.26",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3PlanarMotion",
+      "from": "0.4.25",
+      "to": "0.4.26",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3Ptp",
+      "from": "0.4.25",
+      "to": "0.4.26",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3Ptp_Preview",
+      "from": "0.4.25",
+      "to": "0.4.26",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3Ptp_Utilities",
+      "from": "0.4.25",
+      "to": "0.4.26",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.Plc.Lib.Motion.MC3.Tc3_Mc3Robotics",
+      "from": "0.4.25",
+      "to": "0.4.26",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.Plc.Lib.Motion.Tc3_Physics",
+      "from": "0.4.25",
+      "to": "0.4.26",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_IotCommunicator",
+      "from": "1.2.5",
+      "to": "1.2.7",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_MeasurementCore",
+      "from": "3.3.235",
+      "to": "3.3.237",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.ScopeView",
+      "from": "4.49.137",
+      "to": "4.49.142",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.ScopeView.TcXaeShell",
+      "from": "4.49.137",
+      "to": "4.49.142",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.ScopeView.TcXaeShell64",
+      "from": "4.49.137",
+      "to": "4.49.142",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.ScopeView.VS2017",
+      "from": "4.49.137",
+      "to": "4.49.142",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.ScopeView.VS2019",
+      "from": "4.49.137",
+      "to": "4.49.142",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.ScopeView.VS2022",
+      "from": "4.49.137",
+      "to": "4.49.142",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerBase.TcIde",
+      "from": "2.6.22",
+      "to": "2.6.23",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.TMX.Motion.MC3.Atro",
+      "from": "0.4.25",
+      "to": "0.4.26",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.TMX.Motion.MC3.Base",
+      "from": "0.4.25",
+      "to": "0.4.26",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.TMX.Motion.MC3.Camming",
+      "from": "0.4.25",
+      "to": "0.4.26",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.TMX.Motion.MC3.CoordinatedMotion",
+      "from": "0.4.25",
+      "to": "0.4.26",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.TMX.Motion.MC3.FluidPower",
+      "from": "0.4.25",
+      "to": "0.4.26",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.TMX.Motion.MC3.LinearMotion",
+      "from": "0.4.25",
+      "to": "0.4.26",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.TMX.Motion.MC3.PlanarMotion",
+      "from": "0.4.25",
+      "to": "0.4.26",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.TMX.Motion.MC3.Ptp",
+      "from": "0.4.25",
+      "to": "0.4.26",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.TMX.Motion.Physics",
+      "from": "0.4.25",
+      "to": "0.4.26",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.Motion.MC3.Camming",
+      "from": "1.0.28",
+      "to": "1.0.29",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.Motion.MC3.Camming.TcXaeShell",
+      "from": "1.0.28",
+      "to": "1.0.29",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.Motion.MC3.Camming.TcXaeShell64",
+      "from": "1.0.28",
+      "to": "1.0.29",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.Motion.MC3.Camming.VS2017",
+      "from": "1.0.28",
+      "to": "1.0.29",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.Motion.MC3.Camming.VS2019",
+      "from": "1.0.28",
+      "to": "1.0.29",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.Motion.MC3.Camming.VS2022",
+      "from": "1.0.28",
+      "to": "1.0.29",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.Motion.MC3.CoordinatedMotion",
+      "from": "1.0.28",
+      "to": "1.0.29",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.Motion.MC3.FluidPower",
+      "from": "1.0.28",
+      "to": "1.0.29",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.Motion.MC3.LinearMotion",
+      "from": "1.0.28",
+      "to": "1.0.29",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.Motion.MC3.PlanarMotion",
+      "from": "1.0.28",
+      "to": "1.0.29",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.Motion.MC3.PTP",
+      "from": "1.0.28",
+      "to": "1.0.29",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.Motion.MC3.PTP.TcXaeShell",
+      "from": "1.0.28",
+      "to": "1.0.29",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.Motion.MC3.PTP.TcXaeShell64",
+      "from": "1.0.28",
+      "to": "1.0.29",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.Motion.MC3.PTP.VS2017",
+      "from": "1.0.28",
+      "to": "1.0.29",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.Motion.MC3.PTP.VS2019",
+      "from": "1.0.28",
+      "to": "1.0.29",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.Motion.MC3.PTP.VS2022",
+      "from": "1.0.28",
+      "to": "1.0.29",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAR.MeasurementCore",
+      "from": "3.3.215",
+      "to": "3.3.222",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAR.ScopeServer",
+      "from": "4.49.105",
+      "to": "4.49.108",
+      "Source": "Beckhoff Stable Feed"
+    }
+  ]
+}

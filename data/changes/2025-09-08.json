@@ -1,0 +1,18 @@
+{
+  "date": "2025-09-08",
+  "counts": {
+    "added": 0,
+    "removed": 0,
+    "updated": 1
+  },
+  "added": [],
+  "removed": [],
+  "updated": [
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_MBus",
+      "from": "0.0.2",
+      "to": "0.0.3",
+      "Source": "Beckhoff Experimental Feed"
+    }
+  ]
+}

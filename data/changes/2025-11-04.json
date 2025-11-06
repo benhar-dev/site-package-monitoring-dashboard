@@ -1,0 +1,78 @@
+{
+  "date": "2025-11-04",
+  "counts": {
+    "added": 1,
+    "removed": 0,
+    "updated": 10
+  },
+  "added": [
+    {
+      "Id": "TwinCAT.XAE.CNC.Docs.MillingBase",
+      "Version": "1.0.0",
+      "Source": "Beckhoff Experimental Feed"
+    }
+  ],
+  "removed": [],
+  "updated": [
+    {
+      "Id": "TF3710.InterfaceForLabVIEW.XAE",
+      "from": "1.7.2",
+      "to": "1.7.3",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TF5200.CNC.XAE",
+      "from": "4.26.0",
+      "to": "4.27.0",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TF5210.CNCE.XAE",
+      "from": "4.26.0",
+      "to": "4.27.0",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TF5210.CNCE.XAR",
+      "from": "4.26.0",
+      "to": "4.27.0",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.CNC",
+      "from": "4.26.0",
+      "to": "4.27.0",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.FieldbussesBase",
+      "from": "1.15.0",
+      "to": "1.16.1",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_MBus",
+      "from": "0.0.3",
+      "to": "0.0.5",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_MeasurementCore",
+      "from": "3.3.255",
+      "to": "3.3.257",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAR.CNC.Export",
+      "from": "4.26.0",
+      "to": "4.27.0",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XARUM.CNC.Export",
+      "from": "4.26.0",
+      "to": "4.27.0",
+      "Source": "Beckhoff Stable Feed"
+    }
+  ]
+}

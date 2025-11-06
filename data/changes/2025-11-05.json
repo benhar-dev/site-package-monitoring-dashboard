@@ -1,0 +1,264 @@
+{
+  "date": "2025-11-05",
+  "counts": {
+    "added": 0,
+    "removed": 0,
+    "updated": 42
+  },
+  "added": [],
+  "removed": [],
+  "updated": [
+    {
+      "Id": "TE2000.HMIEngineering.XAE",
+      "from": "14.8.1",
+      "to": "14.9.1",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TF2000.HMIServer.XAR",
+      "from": "14.8.0",
+      "to": "14.9.0",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.Alarm",
+      "from": "14.4.176",
+      "to": "14.4.216",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.AuditTrail",
+      "from": "14.4.80",
+      "to": "14.4.216",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.AuditTrailUtils",
+      "from": "14.3.258",
+      "to": "14.3.277",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.BaseTemplate",
+      "from": "14.3.258",
+      "to": "14.3.277",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.Controls",
+      "from": "14.3.258",
+      "to": "14.3.277",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.EcDiagnostics",
+      "from": "14.4.176",
+      "to": "14.4.216",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.EcDiagnosticsControl",
+      "from": "14.3.258",
+      "to": "14.3.277",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.EventLogger",
+      "from": "14.4.80",
+      "to": "14.4.216",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.Framework",
+      "from": "14.3.258",
+      "to": "14.3.277",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.Functions",
+      "from": "14.3.258",
+      "to": "14.3.277",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.Industries.Common",
+      "from": "14.3.258",
+      "to": "14.3.277",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.Mdp",
+      "from": "14.4.176",
+      "to": "14.4.216",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.Motion",
+      "from": "14.3.258",
+      "to": "14.3.277",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.OpcUa",
+      "from": "14.4.176",
+      "to": "14.4.216",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.PackML",
+      "from": "14.3.258",
+      "to": "14.3.277",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.PDFViewer",
+      "from": "14.3.258",
+      "to": "14.3.277",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.PostgresHistorize",
+      "from": "14.4.124",
+      "to": "14.4.216",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.RecipeManagement",
+      "from": "14.4.176",
+      "to": "14.4.216",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.Reporting",
+      "from": "14.4.80",
+      "to": "14.4.216",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.ResponsiveNavigation",
+      "from": "14.3.258",
+      "to": "14.3.277",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.ScopeControl",
+      "from": "14.3.258",
+      "to": "14.3.277",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.Server",
+      "from": "14.4.176",
+      "to": "14.4.216",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.Server.Documentation",
+      "from": "14.4.176",
+      "to": "14.4.216",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.Server.Engineering",
+      "from": "14.4.176",
+      "to": "14.4.216",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.Server.NET",
+      "from": "14.4.176",
+      "to": "14.4.216",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.Server.NET.SDK",
+      "from": "14.4.176",
+      "to": "14.4.216",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.Speech",
+      "from": "14.4.80",
+      "to": "14.4.216",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.SqliteHistorize",
+      "from": "14.4.176",
+      "to": "14.4.216",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.CoAgent",
+      "from": "0.8.20",
+      "to": "0.8.21",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.CoAgent.Rag.Server",
+      "from": "0.1.7",
+      "to": "0.2.1",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.EmbeddedBrowser",
+      "from": "18.0.9",
+      "to": "18.0.10",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.EmbeddedBrowser.TcXaeShell",
+      "from": "18.0.9",
+      "to": "18.0.10",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.EmbeddedBrowser.TcXaeShell64",
+      "from": "18.0.9",
+      "to": "18.0.10",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.EmbeddedBrowser.VS2017",
+      "from": "18.0.9",
+      "to": "18.0.10",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.EmbeddedBrowser.VS2019",
+      "from": "18.0.9",
+      "to": "18.0.10",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.EmbeddedBrowser.VS2022",
+      "from": "18.0.9",
+      "to": "18.0.10",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.EtherCATConfig",
+      "from": "2.0.123",
+      "to": "2.0.125",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_MeasurementCore",
+      "from": "3.3.257",
+      "to": "3.3.259",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerBase.TcIde",
+      "from": "2.6.29",
+      "to": "2.6.30",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.XtsSupportAssistant",
+      "from": "4.3.46",
+      "to": "4.4.1",
+      "Source": "Beckhoff Experimental Feed"
+    }
+  ]
+}

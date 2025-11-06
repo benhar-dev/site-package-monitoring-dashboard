@@ -1,0 +1,60 @@
+{
+  "date": "2025-10-15",
+  "counts": {
+    "added": 0,
+    "removed": 0,
+    "updated": 8
+  },
+  "added": [],
+  "removed": [],
+  "updated": [
+    {
+      "Id": "TF8040.BuildingAutomation.XAE",
+      "from": "0.0.15",
+      "to": "6.0.0",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.IDE",
+      "from": "0.0.34",
+      "to": "0.0.35",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_PlcTestFramework",
+      "from": "1.11.23",
+      "to": "1.11.25",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_PlcTestUtilitiesGeneric",
+      "from": "1.11.23",
+      "to": "1.11.25",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_PlcTestUtilitiesMC2",
+      "from": "1.11.23",
+      "to": "1.11.25",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_PlcTestUtilitiesNcI",
+      "from": "1.11.23",
+      "to": "1.11.25",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerBase.TcIde",
+      "from": "2.6.23",
+      "to": "2.6.26",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.TestFramework",
+      "from": "1.11.23",
+      "to": "1.11.25",
+      "Source": "Beckhoff Experimental Feed"
+    }
+  ]
+}

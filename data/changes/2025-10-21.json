@@ -1,0 +1,143 @@
+{
+  "date": "2025-10-21",
+  "counts": {
+    "added": 2,
+    "removed": 0,
+    "updated": 20
+  },
+  "added": [
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc2_HVAC",
+      "Version": "3.4.3",
+      "Source": "Beckhoff Unstable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAR.RealtimeMonitorServer",
+      "Version": "1.0.5",
+      "Source": "Beckhoff Experimental Feed"
+    }
+  ],
+  "removed": [],
+  "updated": [
+    {
+      "Id": "TcPkgUI",
+      "from": "2.0.33",
+      "to": "2.0.35",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TF3710.InterfaceForLabVIEW.XAE",
+      "from": "1.7.1",
+      "to": "1.7.2",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TF5400.AdvancedMotionPack.XAE",
+      "from": "3.3.77",
+      "to": "3.4.19",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TF5400.AdvancedMotionPack.XAR",
+      "from": "3.3.77",
+      "to": "3.4.19",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AdvancedMotion",
+      "from": "3.3.77",
+      "to": "3.4.19",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.DataExchangeLabVIEW",
+      "from": "1.7.1",
+      "to": "1.7.2",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_Acsi",
+      "from": "3.1.30",
+      "to": "3.1.31",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_Ber",
+      "from": "3.1.30",
+      "to": "3.1.31",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_Collections",
+      "from": "3.1.30",
+      "to": "3.1.31",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_Gse",
+      "from": "3.1.30",
+      "to": "3.1.31",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_iec61850",
+      "from": "3.1.30",
+      "to": "3.1.31",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_iec61850_8_1",
+      "from": "3.1.30",
+      "to": "3.1.31",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_MeasurementCore",
+      "from": "3.3.242",
+      "to": "3.3.244",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_Mms",
+      "from": "3.1.30",
+      "to": "3.1.31",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_Rfc1006",
+      "from": "3.1.30",
+      "to": "3.1.31",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_Sockets",
+      "from": "3.1.30",
+      "to": "3.1.31",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_Tpkt",
+      "from": "3.1.30",
+      "to": "3.1.31",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_Ulosi",
+      "from": "3.1.30",
+      "to": "3.1.31",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAR.AdvancedMotion",
+      "from": "3.3.77",
+      "to": "3.4.19",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XARUM.AdvancedMotion",
+      "from": "3.3.77",
+      "to": "3.4.19",
+      "Source": "Beckhoff Stable Feed"
+    }
+  ]
+}

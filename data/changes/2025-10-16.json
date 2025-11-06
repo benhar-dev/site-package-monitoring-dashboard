@@ -1,0 +1,168 @@
+{
+  "date": "2025-10-16",
+  "counts": {
+    "added": 1,
+    "removed": 0,
+    "updated": 25
+  },
+  "added": [
+    {
+      "Id": "TwinCAT.XAE.CoAgent.Rag.Base",
+      "Version": "0.1.4",
+      "Source": "Beckhoff Experimental Feed"
+    }
+  ],
+  "removed": [],
+  "updated": [
+    {
+      "Id": "TE1120.XCADInterface.XAE",
+      "from": "1.1.4",
+      "to": "1.1.6",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TE1420.TargetForFMI.XAE",
+      "from": "2.8.49",
+      "to": "2.8.161",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AutomationMLDataExchange",
+      "from": "1.2.15",
+      "to": "1.2.26",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AutomationMLDataExchange.TcXaeShell",
+      "from": "1.2.15",
+      "to": "1.2.26",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AutomationMLDataExchange.TcXaeShell64",
+      "from": "1.2.15",
+      "to": "1.2.26",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AutomationMLDataExchange.VS2017",
+      "from": "1.2.15",
+      "to": "1.2.26",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AutomationMLDataExchange.VS2019",
+      "from": "1.2.15",
+      "to": "1.2.26",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AutomationMLDataExchange.VS2022",
+      "from": "1.2.15",
+      "to": "1.2.26",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.CNC",
+      "from": "4.24.0",
+      "to": "4.26.0",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.CoAgent.Rag.Server",
+      "from": "0.1.4",
+      "to": "0.1.5",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.ModuleGeneratorFMI",
+      "from": "2.8.49",
+      "to": "2.8.161",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.ModuleGeneratorFMIVS",
+      "from": "2.8.49",
+      "to": "2.8.161",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.ModuleGeneratorFMIVS.VS2017",
+      "from": "2.8.49",
+      "to": "2.8.161",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.ModuleGeneratorFMIVS.VS2019",
+      "from": "2.8.49",
+      "to": "2.8.161",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.ModuleGeneratorFMIVS.VS2022",
+      "from": "2.8.49",
+      "to": "2.8.161",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_MeasurementCore",
+      "from": "3.3.240",
+      "to": "3.3.241",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerBase.TcIde",
+      "from": "2.6.26",
+      "to": "2.6.27",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.XCADInterface",
+      "from": "3.2.13",
+      "to": "3.2.26",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.XCADInterface.TcXaeShell",
+      "from": "3.2.13",
+      "to": "3.2.26",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.XCADInterface.TcXaeShell64",
+      "from": "3.2.13",
+      "to": "3.2.26",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.XCADInterface.VS2017",
+      "from": "3.2.13",
+      "to": "3.2.26",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.XCADInterface.VS2019",
+      "from": "3.2.13",
+      "to": "3.2.26",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.XCADInterface.VS2022",
+      "from": "3.2.13",
+      "to": "3.2.26",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAR.CNC.Export",
+      "from": "4.24.0",
+      "to": "4.26.0",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XARUM.CNC.Export",
+      "from": "4.24.0",
+      "to": "4.26.0",
+      "Source": "Beckhoff Stable Feed"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "date": "2025-10-10",
+  "counts": {
+    "added": 0,
+    "removed": 0,
+    "updated": 20
+  },
+  "added": [],
+  "removed": [],
+  "updated": [
+    {
+      "Id": "TC1300.Cpp.XAE",
+      "from": "4026.18.0",
+      "to": "4026.19.0",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TC170x.UsermodeRuntime.XAR",
+      "from": "4026.18.0",
+      "to": "4026.19.0",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TF3500.AnalyticsLogger.XAE",
+      "from": "34.3.0",
+      "to": "34.3.1",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TF8040.BuildingAutomation.XAE",
+      "from": "0.0.13",
+      "to": "0.0.14",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.BA.BaSite",
+      "from": "2.13.1",
+      "to": "2.13.3",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.BA.Controls",
+      "from": "2.13.1",
+      "to": "2.13.3",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.BA.Framework",
+      "from": "2.13.1",
+      "to": "2.13.3",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.BA.Icons",
+      "from": "2.13.1",
+      "to": "2.13.3",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.BA.ProjectTemplates",
+      "from": "2.13.1",
+      "to": "2.13.3",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AnalyticsLogger",
+      "from": "4.3.25",
+      "to": "4.3.27",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.CppSupport",
+      "from": "1.4.3",
+      "to": "1.4.6",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.CppSupport.VS2017",
+      "from": "1.4.3",
+      "to": "1.4.6",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.CppSupport.VS2019",
+      "from": "1.4.3",
+      "to": "1.4.6",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.CppSupport.VS2022",
+      "from": "1.4.3",
+      "to": "1.4.6",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_AnalyticsCommunication",
+      "from": "3.3.233",
+      "to": "3.3.237",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_BACnetRev14",
+      "from": "4.2.65",
+      "to": "4.3.1",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_MeasurementCore",
+      "from": "3.3.237",
+      "to": "3.3.239",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.RealtimeMonitor",
+      "from": "1.4.11",
+      "to": "1.4.17",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.TMX.AnalyticsLogger",
+      "from": "3.3.233",
+      "to": "3.3.237",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAR.UserModeRuntime",
+      "from": "1.17.1",
+      "to": "1.18.3",
+      "Source": "Beckhoff Stable Feed"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2025-09-10",
+  "counts": {
+    "added": 0,
+    "removed": 0,
+    "updated": 7
+  },
+  "added": [],
+  "removed": [],
+  "updated": [
+    {
+      "Id": "TwinCAT.XAE.AnalyticsLogger",
+      "from": "4.3.10",
+      "to": "4.3.13",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_PlasticFunctions",
+      "from": "12.10.3",
+      "to": "12.10.7",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_PlasticHydraulic",
+      "from": "12.10.3",
+      "to": "12.10.7",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_PlasticNc",
+      "from": "12.10.3",
+      "to": "12.10.7",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerBase.RM.4026.19",
+      "from": "2.6.2",
+      "to": "2.6.3",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerBase.TcIde",
+      "from": "2.6.2",
+      "to": "2.6.3",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerVS.RM.4026.19",
+      "from": "2.6.2",
+      "to": "2.6.3",
+      "Source": "Beckhoff Experimental Feed"
+    }
+  ]
+}

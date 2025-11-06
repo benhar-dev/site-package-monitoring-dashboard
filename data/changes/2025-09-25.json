@@ -1,0 +1,372 @@
+{
+  "date": "2025-09-25",
+  "counts": {
+    "added": 0,
+    "removed": 0,
+    "updated": 60
+  },
+  "added": [],
+  "removed": [],
+  "updated": [
+    {
+      "Id": "TE1300.ScopeViewProfessional.XAE",
+      "from": "34.49.7",
+      "to": "34.49.10",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TE1310.FilterDesigner.XAE",
+      "from": "34.49.5",
+      "to": "34.49.10",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TE3500.AnalyticsWorkbench.XAE",
+      "from": "34.49.8",
+      "to": "34.49.10",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TE3520.AnalyticsServiceTool.XAE",
+      "from": "34.49.8",
+      "to": "34.49.10",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TF3300.ScopeServer.XAR",
+      "from": "34.49.8",
+      "to": "34.49.10",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.BA.BaSite",
+      "from": "2.13.0",
+      "to": "2.13.1",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.BA.Controls",
+      "from": "2.13.0",
+      "to": "2.13.1",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.BA.Framework",
+      "from": "2.13.0",
+      "to": "2.13.1",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.BA.Icons",
+      "from": "2.13.0",
+      "to": "2.13.1",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.BA.ProjectTemplates",
+      "from": "2.13.0",
+      "to": "2.13.1",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.SIM.InterfaceForNX",
+      "from": "1.2.62",
+      "to": "1.2.63",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AnalyticsWorkbench",
+      "from": "4.49.561",
+      "to": "4.49.567",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AnalyticsWorkbench.TcXaeShell",
+      "from": "4.49.561",
+      "to": "4.49.567",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AnalyticsWorkbench.TcXaeShell64",
+      "from": "4.49.561",
+      "to": "4.49.567",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AnalyticsWorkbench.VS2017",
+      "from": "4.49.561",
+      "to": "4.49.567",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AnalyticsWorkbench.VS2019",
+      "from": "4.49.561",
+      "to": "4.49.567",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AnalyticsWorkbench.VS2022",
+      "from": "4.49.561",
+      "to": "4.49.567",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.BodePlot",
+      "from": "4.49.80",
+      "to": "4.49.87",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.BodePlot.TcXaeShell",
+      "from": "4.49.80",
+      "to": "4.49.87",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.BodePlot.TcXaeShell64",
+      "from": "4.49.80",
+      "to": "4.49.87",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.BodePlot.VS2017",
+      "from": "4.49.80",
+      "to": "4.49.87",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.BodePlot.VS2019",
+      "from": "4.49.80",
+      "to": "4.49.87",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.BodePlot.VS2022",
+      "from": "4.49.80",
+      "to": "4.49.87",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.FilterDesigner",
+      "from": "4.49.57",
+      "to": "4.49.62",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.FilterDesigner.TcXaeShell",
+      "from": "4.49.57",
+      "to": "4.49.62",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.FilterDesigner.TcXaeShell64",
+      "from": "4.49.57",
+      "to": "4.49.62",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.FilterDesigner.VS2017",
+      "from": "4.49.57",
+      "to": "4.49.62",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.FilterDesigner.VS2019",
+      "from": "4.49.57",
+      "to": "4.49.62",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.FilterDesigner.VS2022",
+      "from": "4.49.57",
+      "to": "4.49.62",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.MeasurementBaseVS",
+      "from": "4.49.34",
+      "to": "4.49.38",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.MeasurementBaseVS.TcXaeShell",
+      "from": "4.49.34",
+      "to": "4.49.38",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.MeasurementBaseVS.TcXaeShell64",
+      "from": "4.49.34",
+      "to": "4.49.38",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.MeasurementBaseVS.VS2017",
+      "from": "4.49.34",
+      "to": "4.49.38",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.MeasurementBaseVS.VS2019",
+      "from": "4.49.34",
+      "to": "4.49.38",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.MeasurementBaseVS.VS2022",
+      "from": "4.49.34",
+      "to": "4.49.38",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_Acsi",
+      "from": "3.1.24",
+      "to": "3.1.30",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_Ber",
+      "from": "3.1.24",
+      "to": "3.1.30",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_Collections",
+      "from": "3.1.24",
+      "to": "3.1.30",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_Gse",
+      "from": "3.1.24",
+      "to": "3.1.30",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_iec61850",
+      "from": "3.1.24",
+      "to": "3.1.30",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_iec61850_8_1",
+      "from": "3.1.24",
+      "to": "3.1.30",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_MeasurementCore",
+      "from": "3.3.225",
+      "to": "3.3.227",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_Mms",
+      "from": "3.1.24",
+      "to": "3.1.30",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_Rfc1006",
+      "from": "3.1.24",
+      "to": "3.1.30",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_Sockets",
+      "from": "3.1.24",
+      "to": "3.1.30",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_Tpkt",
+      "from": "3.1.24",
+      "to": "3.1.30",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_Ulosi",
+      "from": "3.1.24",
+      "to": "3.1.30",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.ScopeView",
+      "from": "4.49.133",
+      "to": "4.49.137",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.ScopeView.TcXaeShell",
+      "from": "4.49.133",
+      "to": "4.49.137",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.ScopeView.TcXaeShell64",
+      "from": "4.49.133",
+      "to": "4.49.137",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.ScopeView.VS2017",
+      "from": "4.49.133",
+      "to": "4.49.137",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.ScopeView.VS2019",
+      "from": "4.49.133",
+      "to": "4.49.137",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.ScopeView.VS2022",
+      "from": "4.49.133",
+      "to": "4.49.137",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerBase.RM.4026.20",
+      "from": "2.6.17",
+      "to": "2.6.19",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerBase.TcIde",
+      "from": "2.6.17",
+      "to": "2.6.19",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerVS.RM.4026.20",
+      "from": "2.6.17",
+      "to": "2.6.19",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.Telecontrol",
+      "from": "3.98.14",
+      "to": "3.98.18",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.TMX.NcObjects",
+      "from": "3.2.2",
+      "to": "3.2.3",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAR.MeasurementCore",
+      "from": "3.3.196",
+      "to": "3.3.215",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAR.ScopeServer",
+      "from": "4.49.103",
+      "to": "4.49.105",
+      "Source": "Beckhoff Stable Feed"
+    }
+  ]
+}

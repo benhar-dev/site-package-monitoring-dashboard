@@ -1,0 +1,102 @@
+{
+  "date": "2025-08-30",
+  "counts": {
+    "added": 0,
+    "removed": 0,
+    "updated": 15
+  },
+  "added": [],
+  "removed": [],
+  "updated": [
+    {
+      "Id": "TC170x.UsermodeRuntime.XAR",
+      "from": "4026.17.0",
+      "to": "4026.18.0",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TF6300.FTPClient.XAE",
+      "from": "4.0.4",
+      "to": "4.0.9",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TF6300.FTPClient.XAR",
+      "from": "4.0.4",
+      "to": "4.0.9",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.SIM.InterfaceForNX",
+      "from": "1.2.52",
+      "to": "1.2.53",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AnalyticsLogger",
+      "from": "4.3.5",
+      "to": "4.3.6",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.IDE",
+      "from": "0.0.29",
+      "to": "0.0.30",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_FTP",
+      "from": "1.0.3",
+      "to": "1.0.5",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_MeasurementCore",
+      "from": "3.3.212",
+      "to": "3.3.213",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.RM.4026.19",
+      "from": "5.12.3",
+      "to": "5.12.4",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerBase.RM.4026.19",
+      "from": "2.5.160",
+      "to": "2.5.161",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerVS.RM.4026.19",
+      "from": "2.5.160",
+      "to": "2.5.161",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.TMX.PowerSystems",
+      "from": "0.0.9",
+      "to": "0.1.0",
+      "Source": "Beckhoff Testing Feed"
+    },
+    {
+      "Id": "TwinCAT.XAR.FtpClient",
+      "from": "4.0.4",
+      "to": "4.0.9",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAR.UiClient",
+      "from": "1.5.0",
+      "to": "1.10.0",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAR.UserModeRuntime",
+      "from": "1.16.2",
+      "to": "1.17.1",
+      "Source": "Beckhoff Stable Feed"
+    }
+  ]
+}

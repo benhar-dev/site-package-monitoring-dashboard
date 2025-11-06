@@ -1,0 +1,81 @@
+{
+  "date": "2025-10-28",
+  "counts": {
+    "added": 0,
+    "removed": 4,
+    "updated": 8
+  },
+  "added": [],
+  "removed": [
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_Mc3Definitions",
+      "Version": "0.4.28",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_McCollisionAvoidance",
+      "Version": "0.4.28",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_McCompensations",
+      "Version": "0.4.28",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_McCoordinatedMotion",
+      "Version": "0.4.28",
+      "Source": "Beckhoff Experimental Feed"
+    }
+  ],
+  "updated": [
+    {
+      "Id": "TF8020.BACnet.XAE",
+      "from": "1.0.4",
+      "to": "1.0.5",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TF8020.BACnet.XAR",
+      "from": "1.0.4",
+      "to": "1.0.5",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.XPlanar",
+      "from": "0.0.0",
+      "to": "0.0.1",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.CoAgent",
+      "from": "0.8.15",
+      "to": "0.8.16",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.DataExchangeLabVIEW",
+      "from": "1.7.2",
+      "to": "1.7.3",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_MeasurementCore",
+      "from": "3.3.248",
+      "to": "3.3.249",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_PlasticBaseApplication",
+      "from": "12.12.7",
+      "to": "12.12.10",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_PlasticBaseApplicationElectric",
+      "from": "12.12.7",
+      "to": "12.12.10",
+      "Source": "Beckhoff Stable Feed"
+    }
+  ]
+}

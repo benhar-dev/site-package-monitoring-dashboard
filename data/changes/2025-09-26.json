@@ -1,0 +1,156 @@
+{
+  "date": "2025-09-26",
+  "counts": {
+    "added": 0,
+    "removed": 0,
+    "updated": 24
+  },
+  "added": [],
+  "removed": [],
+  "updated": [
+    {
+      "Id": "TE1700.CoAgent.XAE",
+      "from": "0.1.1",
+      "to": "0.1.2",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TF3520.AnalyticsStorageProvider.XAE",
+      "from": "33.15.5",
+      "to": "33.16.0",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TF3520.AnalyticsStorageProvider.XAR",
+      "from": "33.15.5",
+      "to": "33.16.0",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TF6510.IEC61850-IEC61400-25.XAE",
+      "from": "33.98.2",
+      "to": "33.98.3",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TF6510.IEC61850-IEC61400-25.XAR",
+      "from": "33.98.2",
+      "to": "33.98.3",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AnalyticsStorageProvider",
+      "from": "3.15.74",
+      "to": "3.16.8",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AnalyticsStorageProvider.TcXaeShell",
+      "from": "3.15.74",
+      "to": "3.16.8",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AnalyticsStorageProvider.TcXaeShell64",
+      "from": "3.15.74",
+      "to": "3.16.8",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AnalyticsStorageProvider.VS2017",
+      "from": "3.15.74",
+      "to": "3.16.8",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AnalyticsStorageProvider.VS2019",
+      "from": "3.15.74",
+      "to": "3.16.8",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AnalyticsStorageProvider.VS2022",
+      "from": "3.15.74",
+      "to": "3.16.8",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.EtherCATConfig",
+      "from": "2.0.109",
+      "to": "2.0.113",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_MeasurementCore",
+      "from": "3.3.227",
+      "to": "3.3.229",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PublicSDK",
+      "from": "4.19.1",
+      "to": "4.20.4",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PublicSDK.VS2017",
+      "from": "4.19.1",
+      "to": "4.20.4",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PublicSDK.VS2019",
+      "from": "4.19.1",
+      "to": "4.20.4",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PublicSDK.VS2022",
+      "from": "4.19.1",
+      "to": "4.20.4",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SafetyEditor",
+      "from": "1.3.2",
+      "to": "1.3.4",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SafetyEditor.TcXaeShell",
+      "from": "1.3.2",
+      "to": "1.3.4",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SafetyEditor.TcXaeShell64",
+      "from": "1.3.2",
+      "to": "1.3.4",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SafetyEditor.VS2017",
+      "from": "1.3.2",
+      "to": "1.3.4",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SafetyEditor.VS2019",
+      "from": "1.3.2",
+      "to": "1.3.4",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SafetyEditor.VS2022",
+      "from": "1.3.2",
+      "to": "1.3.4",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAR.AnalyticsStorageProvider",
+      "from": "3.15.74",
+      "to": "3.16.8",
+      "Source": "Beckhoff Stable Feed"
+    }
+  ]
+}

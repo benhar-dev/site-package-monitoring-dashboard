@@ -1,0 +1,72 @@
+{
+  "date": "2025-08-29",
+  "counts": {
+    "added": 1,
+    "removed": 1,
+    "updated": 8
+  },
+  "added": [
+    {
+      "Id": "TwinCAT.XAE.CNC.Docs.Diagnosis",
+      "Version": "1.0.0",
+      "Source": "Beckhoff Experimental Feed"
+    }
+  ],
+  "removed": [
+    {
+      "Id": "TwinCAT.XAE.Gas.SystemManager",
+      "Version": "10.0.9",
+      "Source": "Beckhoff Testing Feed"
+    }
+  ],
+  "updated": [
+    {
+      "Id": "TC1300.Cpp.XAE",
+      "from": "4026.17.0",
+      "to": "4026.18.0",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.OpcUaConfiguratorStandalone",
+      "from": "3.3.138",
+      "to": "3.4.13",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_MeasurementCore",
+      "from": "3.3.211",
+      "to": "3.3.212",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PublicSDK",
+      "from": "4.18.1",
+      "to": "4.19.1",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PublicSDK.VS2017",
+      "from": "4.18.1",
+      "to": "4.19.1",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PublicSDK.VS2019",
+      "from": "4.18.1",
+      "to": "4.19.1",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PublicSDK.VS2022",
+      "from": "4.18.1",
+      "to": "4.19.1",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.TMX.Motion.CoggingCompensation",
+      "from": "1.0.2",
+      "to": "1.0.3",
+      "Source": "Beckhoff Experimental Feed"
+    }
+  ]
+}

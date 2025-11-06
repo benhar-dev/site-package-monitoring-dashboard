@@ -1,0 +1,67 @@
+{
+  "date": "2025-11-01",
+  "counts": {
+    "added": 6,
+    "removed": 0,
+    "updated": 4
+  },
+  "added": [
+    {
+      "Id": "TwinCAT.XAE.UI.3DConfigurator",
+      "Version": "0.1.6",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.3DConfigurator.TcXaeShell",
+      "Version": "0.1.6",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.3DConfigurator.TcXaeShell64",
+      "Version": "0.1.6",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.3DConfigurator.VS2017",
+      "Version": "0.1.6",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.3DConfigurator.VS2019",
+      "Version": "0.1.6",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.3DConfigurator.VS2022",
+      "Version": "0.1.6",
+      "Source": "Beckhoff Experimental Feed"
+    }
+  ],
+  "removed": [],
+  "updated": [
+    {
+      "Id": "TwinCAT.XAE.CoAgent",
+      "from": "0.8.19",
+      "to": "0.8.20",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.CoAgent.Rag.Server",
+      "from": "0.1.6",
+      "to": "0.1.7",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.IDE",
+      "from": "0.0.36",
+      "to": "0.0.37",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_MeasurementCore",
+      "from": "3.3.254",
+      "to": "3.3.255",
+      "Source": "Beckhoff Experimental Feed"
+    }
+  ]
+}

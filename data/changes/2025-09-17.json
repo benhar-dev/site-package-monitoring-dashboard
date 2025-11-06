@@ -1,0 +1,42 @@
+{
+  "date": "2025-09-17",
+  "counts": {
+    "added": 0,
+    "removed": 0,
+    "updated": 5
+  },
+  "added": [],
+  "removed": [],
+  "updated": [
+    {
+      "Id": "TwinCAT.XAE.CoAgent",
+      "from": "0.8.3",
+      "to": "0.8.4",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerBase.RM.4026.19",
+      "from": "2.6.6",
+      "to": "2.6.10",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerBase.TcIde",
+      "from": "2.6.6",
+      "to": "2.6.10",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerVS.RM.4026.19",
+      "from": "2.6.6",
+      "to": "2.6.10",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.TMX.AnalyticsVision",
+      "from": "1.0.27",
+      "to": "1.0.28",
+      "Source": "Beckhoff Experimental Feed"
+    }
+  ]
+}

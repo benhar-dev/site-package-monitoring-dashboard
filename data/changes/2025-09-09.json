@@ -1,0 +1,174 @@
+{
+  "date": "2025-09-09",
+  "counts": {
+    "added": 1,
+    "removed": 0,
+    "updated": 26
+  },
+  "added": [
+    {
+      "Id": "TF8040.BuildingAutomation.XAE",
+      "Version": "0.0.10",
+      "Source": "Beckhoff Experimental Feed"
+    }
+  ],
+  "removed": [],
+  "updated": [
+    {
+      "Id": "TF5000.NCPTP.XAE",
+      "from": "1.0.3",
+      "to": "1.0.4",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TF5000.NCPTP.XAR",
+      "from": "1.0.3",
+      "to": "1.0.4",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TF5100.NCI.XAR",
+      "from": "1.0.3",
+      "to": "1.0.4",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TF5810.HydraulicPositioning.XAE",
+      "from": "3.4.30",
+      "to": "3.4.31",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AnalyticsDataExchange.Dotnet",
+      "from": "3.6.23",
+      "to": "3.7.4",
+      "Source": "Beckhoff Testing Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AnalyticsLogger",
+      "from": "4.3.9",
+      "to": "4.3.10",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.CoAgent",
+      "from": "0.7.8",
+      "to": "0.8.1",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.CoAgentVS",
+      "from": "0.5.14",
+      "to": "0.5.15",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.CoAgentVS.TcXaeShell64",
+      "from": "0.5.14",
+      "to": "0.5.15",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.CoAgentVS.VS2017",
+      "from": "0.5.14",
+      "to": "0.5.15",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.CoAgentVS.VS2019",
+      "from": "0.5.14",
+      "to": "0.5.15",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.CoAgentVS.VS2022",
+      "from": "0.5.14",
+      "to": "0.5.15",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.HydraulicCommissioning",
+      "from": "3.4.30",
+      "to": "3.4.31",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc2_Hydraulics",
+      "from": "3.4.30",
+      "to": "3.4.31",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc2_MC2_Camming",
+      "from": "3.4.5",
+      "to": "3.4.6",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc2_MC2_FlyingSaw",
+      "from": "3.3.9",
+      "to": "3.3.10",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc2_MC2_XFC",
+      "from": "3.3.29",
+      "to": "3.3.31",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_MC2_AdvancedHoming",
+      "from": "3.0.28",
+      "to": "3.0.29",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_MeasurementCore",
+      "from": "3.3.217",
+      "to": "3.3.219",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerBase.RM.4026.19",
+      "from": "2.6.1",
+      "to": "2.6.2",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerBase.TcIde",
+      "from": "2.6.1",
+      "to": "2.6.2",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerVS.RM.4026.19",
+      "from": "2.6.1",
+      "to": "2.6.2",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAR.NCI.Classic",
+      "from": "3.1.5008",
+      "to": "3.1.5010",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAR.NCI.GST",
+      "from": "3.2.14",
+      "to": "3.2.19",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAR.NCPTP",
+      "from": "3.1.5030",
+      "to": "3.1.5033",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XARUM.NCPTP",
+      "from": "3.1.5030",
+      "to": "3.1.5033",
+      "Source": "Beckhoff Stable Feed"
+    }
+  ]
+}

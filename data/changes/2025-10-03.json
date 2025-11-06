@@ -1,0 +1,276 @@
+{
+  "date": "2025-10-03",
+  "counts": {
+    "added": 0,
+    "removed": 0,
+    "updated": 44
+  },
+  "added": [],
+  "removed": [],
+  "updated": [
+    {
+      "Id": "TcPkg",
+      "from": "2.3.55",
+      "to": "2.3.65",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.MC3.XAE",
+      "from": "0.0.5",
+      "to": "0.0.6",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.Standard.XAE",
+      "from": "4026.18.0",
+      "to": "4026.19.0",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.Standard.XAR",
+      "from": "4026.18.0",
+      "to": "4026.19.0",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.StandardRM.XAE",
+      "from": "4026.18.0",
+      "to": "4026.19.0",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AnalyticsLogger",
+      "from": "4.3.25",
+      "to": "4.3.5",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.FieldbussesBase",
+      "from": "1.14.0",
+      "to": "1.15.0",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.IDE",
+      "from": "0.0.32",
+      "to": "0.0.33",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.Integration",
+      "from": "2.12.0",
+      "to": "2.13.0",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.Integration.TcXaeShell",
+      "from": "2.12.0",
+      "to": "2.13.0",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.Integration.TcXaeShell64",
+      "from": "2.12.0",
+      "to": "2.13.0",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.Integration.VS2017",
+      "from": "2.12.0",
+      "to": "2.13.0",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.Integration.VS2019",
+      "from": "2.12.0",
+      "to": "2.13.0",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.Integration.VS2022",
+      "from": "2.12.0",
+      "to": "2.13.0",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC",
+      "from": "5.11.5",
+      "to": "5.12.7",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc2_Utilities",
+      "from": "3.9.2",
+      "to": "3.10.1",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_XBA",
+      "from": "5.6.18",
+      "to": "5.6.19",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.TcXaeShell",
+      "from": "5.11.5",
+      "to": "5.12.7",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.TcXaeShell64",
+      "from": "5.11.5",
+      "to": "5.12.7",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.VS2017",
+      "from": "5.11.5",
+      "to": "5.12.7",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.VS2019",
+      "from": "5.11.5",
+      "to": "5.12.7",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.VS2022",
+      "from": "5.11.5",
+      "to": "5.12.7",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.Shell",
+      "from": "1.15.0",
+      "to": "1.18.0",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerBase",
+      "from": "2.5.131",
+      "to": "2.6.5",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerBase.TcIde",
+      "from": "2.6.20",
+      "to": "2.6.21",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerInterops",
+      "from": "2.8.0",
+      "to": "2.9.0",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerVS",
+      "from": "2.5.131",
+      "to": "2.6.5",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerVS.TcXaeShell",
+      "from": "2.5.131",
+      "to": "2.6.5",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerVS.TcXaeShell64",
+      "from": "2.5.131",
+      "to": "2.6.5",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerVS.VS2017",
+      "from": "2.5.131",
+      "to": "2.6.5",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerVS.VS2019",
+      "from": "2.5.131",
+      "to": "2.6.5",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerVS.VS2022",
+      "from": "2.5.131",
+      "to": "2.6.5",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.TMC",
+      "from": "1.5.10",
+      "to": "1.5.12",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.TMC.TcXaeShell",
+      "from": "1.5.10",
+      "to": "1.5.12",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.TMC.TcXaeShell64",
+      "from": "1.5.10",
+      "to": "1.5.12",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.TMC.VS2017",
+      "from": "1.5.10",
+      "to": "1.5.12",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.TMC.VS2019",
+      "from": "1.5.10",
+      "to": "1.5.12",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.TMC.VS2022",
+      "from": "1.5.10",
+      "to": "1.5.12",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.TMX.AnalyticsLogger",
+      "from": "3.2.10",
+      "to": "3.3.211",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAR.Base",
+      "from": "3.3.1",
+      "to": "3.4.8",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAR.DriversBase",
+      "from": "3.19.0",
+      "to": "3.21.3",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAR.EtherNetIP",
+      "from": "3.2.1",
+      "to": "3.2.2",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAR.PLC",
+      "from": "2.1.10",
+      "to": "2.1.12",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAR.Realtime",
+      "from": "2.1.10",
+      "to": "2.2.2",
+      "Source": "Beckhoff Stable Feed"
+    }
+  ]
+}

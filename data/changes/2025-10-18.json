@@ -1,0 +1,54 @@
+{
+  "date": "2025-10-18",
+  "counts": {
+    "added": 0,
+    "removed": 0,
+    "updated": 7
+  },
+  "added": [],
+  "removed": [],
+  "updated": [
+    {
+      "Id": "Beckhoff.IPC.BkCloningDll",
+      "from": "3.0.4",
+      "to": "3.0.6",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TcPkgUI",
+      "from": "2.0.30",
+      "to": "2.0.33",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TF8040.BuildingAutomation.XAE",
+      "from": "6.0.1",
+      "to": "6.0.2",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.CoAgent",
+      "from": "0.8.11",
+      "to": "0.8.12",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.CoAgent.Rag.Server",
+      "from": "0.1.5",
+      "to": "0.1.6",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_MeasurementCore",
+      "from": "3.3.241",
+      "to": "3.3.242",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "vcredist140.Beckhoff",
+      "from": "14.42.34438",
+      "to": "14.44.35211",
+      "Source": "Beckhoff Stable Feed"
+    }
+  ]
+}

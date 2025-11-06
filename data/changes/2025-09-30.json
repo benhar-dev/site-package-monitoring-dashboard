@@ -1,0 +1,114 @@
+{
+  "date": "2025-09-30",
+  "counts": {
+    "added": 0,
+    "removed": 0,
+    "updated": 17
+  },
+  "added": [],
+  "removed": [],
+  "updated": [
+    {
+      "Id": "TE8400.MTP.XAE",
+      "from": "0.9.19",
+      "to": "0.9.22",
+      "Source": "Beckhoff Testing Feed"
+    },
+    {
+      "Id": "TF6100.OpcUaConfigurator.XAE",
+      "from": "4.5.7",
+      "to": "4.5.8",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.PI.ProcessLibrary",
+      "from": "14.6.4",
+      "to": "14.6.17",
+      "Source": "Beckhoff Testing Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.AdvancedMotion.TestUtilities",
+      "from": "3.3.77",
+      "to": "3.4.16",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.MTP",
+      "from": "0.9.19",
+      "to": "0.9.22",
+      "Source": "Beckhoff Testing Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.MTP.TcXaeShell64",
+      "from": "0.9.19",
+      "to": "0.9.22",
+      "Source": "Beckhoff Testing Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.MTP.VS2022",
+      "from": "0.9.19",
+      "to": "0.9.22",
+      "Source": "Beckhoff Testing Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.OpcUaConfiguratorVS",
+      "from": "2.0.74",
+      "to": "2.0.77",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.OpcUaConfiguratorVS.TcXaeShell",
+      "from": "2.0.74",
+      "to": "2.0.77",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.OpcUaConfiguratorVS.TcXaeShell64",
+      "from": "2.0.74",
+      "to": "2.0.77",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.OpcUaConfiguratorVS.VS2017",
+      "from": "2.0.74",
+      "to": "2.0.77",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.OpcUaConfiguratorVS.VS2019",
+      "from": "2.0.74",
+      "to": "2.0.77",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.OpcUaConfiguratorVS.VS2022",
+      "from": "2.0.74",
+      "to": "2.0.77",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_EtherCATExtSync",
+      "from": "3.4.2",
+      "to": "3.4.3",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_MeasurementCore",
+      "from": "3.3.230",
+      "to": "3.3.232",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.PLC.Lib.Tc3_MTP",
+      "from": "4.0.8",
+      "to": "4.0.9",
+      "Source": "Beckhoff Testing Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerBase.TcIde",
+      "from": "2.6.19",
+      "to": "2.6.20",
+      "Source": "Beckhoff Experimental Feed"
+    }
+  ]
+}

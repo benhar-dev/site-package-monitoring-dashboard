@@ -1,0 +1,174 @@
+{
+  "date": "2025-10-17",
+  "counts": {
+    "added": 0,
+    "removed": 0,
+    "updated": 27
+  },
+  "added": [],
+  "removed": [],
+  "updated": [
+    {
+      "Id": "TE1700.CoAgent.XAE",
+      "from": "0.1.2",
+      "to": "0.1.3",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TF5200.CNC.XAE",
+      "from": "4.24.0",
+      "to": "4.26.0",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TF5210.CNCE.XAE",
+      "from": "4.24.0",
+      "to": "4.26.0",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TF5210.CNCE.XAR",
+      "from": "4.24.0",
+      "to": "4.26.0",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TF8040.BuildingAutomation.XAE",
+      "from": "6.0.0",
+      "to": "6.0.1",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.BA.BaSite",
+      "from": "2.13.3",
+      "to": "2.13.4",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.BA.Controls",
+      "from": "2.13.3",
+      "to": "2.13.4",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.BA.Framework",
+      "from": "2.13.3",
+      "to": "2.13.4",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.BA.Icons",
+      "from": "2.13.3",
+      "to": "2.13.4",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.BA.ProjectTemplates",
+      "from": "2.13.3",
+      "to": "2.13.4",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.CoAgent",
+      "from": "0.8.10",
+      "to": "0.8.11",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.Motion.MC3.Camming",
+      "from": "1.0.30",
+      "to": "1.0.31",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.Motion.MC3.Camming.TcXaeShell",
+      "from": "1.0.30",
+      "to": "1.0.31",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.Motion.MC3.Camming.TcXaeShell64",
+      "from": "1.0.30",
+      "to": "1.0.31",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.Motion.MC3.Camming.VS2017",
+      "from": "1.0.30",
+      "to": "1.0.31",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.Motion.MC3.Camming.VS2019",
+      "from": "1.0.30",
+      "to": "1.0.31",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.Motion.MC3.Camming.VS2022",
+      "from": "1.0.30",
+      "to": "1.0.31",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.Motion.MC3.CoordinatedMotion",
+      "from": "1.0.30",
+      "to": "1.0.31",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.Motion.MC3.FluidPower",
+      "from": "1.0.30",
+      "to": "1.0.31",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.Motion.MC3.LinearMotion",
+      "from": "1.0.30",
+      "to": "1.0.31",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.Motion.MC3.PlanarMotion",
+      "from": "1.0.30",
+      "to": "1.0.31",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.Motion.MC3.PTP",
+      "from": "1.0.30",
+      "to": "1.0.31",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.Motion.MC3.PTP.TcXaeShell",
+      "from": "1.0.30",
+      "to": "1.0.31",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.Motion.MC3.PTP.TcXaeShell64",
+      "from": "1.0.30",
+      "to": "1.0.31",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.Motion.MC3.PTP.VS2017",
+      "from": "1.0.30",
+      "to": "1.0.31",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.Motion.MC3.PTP.VS2019",
+      "from": "1.0.30",
+      "to": "1.0.31",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.UI.Motion.MC3.PTP.VS2022",
+      "from": "1.0.30",
+      "to": "1.0.31",
+      "Source": "Beckhoff Experimental Feed"
+    }
+  ]
+}

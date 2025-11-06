@@ -1,0 +1,40 @@
+{
+  "date": "2025-10-24",
+  "counts": {
+    "added": 3,
+    "removed": 0,
+    "updated": 2
+  },
+  "added": [
+    {
+      "Id": "TwinCAT.HMI.CoAgent",
+      "Version": "14.4.19",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.XPlanar",
+      "Version": "0.0.0",
+      "Source": "Beckhoff Experimental Feed"
+    },
+    {
+      "Id": "TwinCAT.HMI.XPlanar.Controls",
+      "Version": "0.0.0",
+      "Source": "Beckhoff Experimental Feed"
+    }
+  ],
+  "removed": [],
+  "updated": [
+    {
+      "Id": "TwinCAT.XAE.EtherCATConfig",
+      "from": "2.0.120",
+      "to": "2.0.121",
+      "Source": "Beckhoff Stable Feed"
+    },
+    {
+      "Id": "TwinCAT.XAE.SystemManagerBase.TcIde",
+      "from": "2.6.27",
+      "to": "2.6.28",
+      "Source": "Beckhoff Experimental Feed"
+    }
+  ]
+}
