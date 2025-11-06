@@ -129,7 +129,7 @@ export function DependencySearch({ packages, onSelectPackage }: DependencySearch
       </div>
       
       {isOpen && searchQuery && (
-        <Card className="absolute top-full left-0 right-0 mt-2 z-50 border-primary/30 shadow-xl bg-background/95 backdrop-blur-xl">
+        <Card className="absolute top-full left-0 right-0 mt-2 z-50 border-primary/30 shadow-xl bg-background/85 backdrop-blur-xl">
           <CardContent className="p-3">
             {resultCount > 0 ? (
               <div className="space-y-2 max-h-[400px] overflow-y-auto">
